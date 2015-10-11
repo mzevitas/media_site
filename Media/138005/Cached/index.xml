@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_b>
+    <image>
+      <originalFileName>buy.JPG</originalFileName>
+      <size>13307</size>
+      <dateLastModified>Thu, 23 Jan 2014 21:11:04 GMT</dateLastModified>
+      <width>284</width>
+      <height>130</height>
+      <cachedImage>
+        <fileName>BUY_41e2490d1a459b84c05056c622c26da3ac957fa75581d3bd58fc917f69e47955.jpeg</fileName>
+        <dateCreated>Thu, 23 Jan 2014 21:35:37 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>306</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>BUY_9820919d1c24b44264baffbc9351e31f19792384213888a2ae2d509eaf87a643.jpeg</fileName>
+        <dateCreated>Mon, 27 Jan 2014 20:10:47 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>216</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_b>
+</imageIndex>

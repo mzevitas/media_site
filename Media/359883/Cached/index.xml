@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_C>
+    <image>
+      <originalFileName>CX024_Creative_thumbnail.png</originalFileName>
+      <size>202594</size>
+      <dateLastModified>Thu, 10 Apr 2014 15:45:40 GMT</dateLastModified>
+      <width>612</width>
+      <height>280</height>
+      <cachedImage>
+        <fileName>CX0_f871cc288401de421d1cfaa7f467a38ec3267acd583316a486677fec602883f2.png</fileName>
+        <dateCreated>Thu, 10 Apr 2014 15:46:38 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>216</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>CX0_ea50f415acebd8e2891ea398e858f02241df31b6b49c700be41c86760ec3bc21.png</fileName>
+        <dateCreated>Fri, 23 May 2014 13:51:12 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>306</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_C>
+</imageIndex>

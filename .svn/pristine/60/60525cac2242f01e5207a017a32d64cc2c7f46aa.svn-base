@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_C>
+    <image>
+      <originalFileName>Contact_Hmpage.png</originalFileName>
+      <size>76831</size>
+      <dateLastModified>Mon, 07 Apr 2014 17:49:23 GMT</dateLastModified>
+      <width>306</width>
+      <height>140</height>
+      <cachedImage>
+        <fileName>CON_5604df483a6e9201b5a2b67ee49fec69a16fe777e7affb1c7efa907813bece0d.png</fileName>
+        <dateCreated>Mon, 07 Apr 2014 17:50:23 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>407</width>
+        <height>186</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_C>
+</imageIndex>

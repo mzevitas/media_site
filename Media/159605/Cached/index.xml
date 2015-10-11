@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_S>
+    <image>
+      <originalFileName>Slide-1-1.jpg</originalFileName>
+      <size>194969</size>
+      <dateLastModified>Thu, 20 Feb 2014 16:17:05 GMT</dateLastModified>
+      <width>1748</width>
+      <height>933</height>
+      <cachedImage>
+        <fileName>SLI_423bf5bcab5cbe8978c6c066932e00710d1d8064664d74e8ae608056f689e9a4.jpeg</fileName>
+        <dateCreated>Thu, 20 Feb 2014 17:08:07 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>935</width>
+        <height>499</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_S>
+</imageIndex>

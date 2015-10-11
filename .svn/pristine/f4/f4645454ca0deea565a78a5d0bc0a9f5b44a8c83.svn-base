@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<!--[if IE 8]>               <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Cox Media</title>
+
+  <link rel="stylesheet" href="styles/foundation.css">
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <script data-main="scripts/main" src="scripts/libs/require.js"></script>
+
+</head>
+<body id="page" class="off-canvas hide-extras interior">
+  <div class="container">
+    <div class="hide-for-small blue-top">
+      <div class="row">
+        <div class="large-5 large-offset-7 header-form">
+            <form class="custom">
+              <div class="small-7 columns">
+                  <label for="customDropdown1">Change Your Market</label>
+              </div>
+              <div class="small-5 columns">
+                  <select class="selectnav" id="selectnav1">
+                    <option>Macon, Ga</option>
+                    <option>Shreveport, LA</option>
+                    <option>Greenville, SC</option>
+                    <option>Charleston, SC</option>
+                  </select>
+              </div>
+            </form>
+          </div>
+      </div>
+    </div>
+    <header id="header">
+        <div class="row">
+            <div class="small-12">
+              <nav class="top-bar" style="">
+                  <ul class="title-area">
+                      <li class="name hide-for-small"><a href="/" class="logo"><img src="images/cox-logo.png"></a></li>
+                      <li class="toggle-topbar menu-icon"><a href=""><span></span></a></li>
+                      <li class="name show-for-small"><a href="/" class="logo"><img src="images/cox-logo.png"></a></li>
+                  </ul>
+                  <section class="top-bar-section">
+                      <ul>
+                          <li class="has-dropdown"><a href="#">Advertise With Us</a>
+                              <ul class="dropdown">
+                                  <li class="has-dropdown"><a href="#">Local Businesses</a>
+                                      <ul class="dropdown">
+                                          <li><a href="#">Why Cox Media?</a></li>
+                                          <li><a href="#">Services for Businesses</a></li>
+                                      </ul>
+                                  </li>
+                                  <li class="has-dropdown"><a href="#">For Agencies</a>
+                                      <ul class="dropdown">
+                                          <li><a href="#">Why Cox Media?</a></li>
+                                          <li><a href="#">Services for Agencies</a></li>
+                                      </ul>
+                                  </li>
+                                  <li class=""><a href="#">Multi-Market Advertising</a></li>
+                                  <li class=""><a href="#">Success Stories</a></li>
+                                  <li class=""><a href="#">Creative Gallery</a></li>
+                              </ul>
+                          </li>      
+                        <li class="has-dropdown"><a href="#">Products &amp; Services</a>
+                            <ul class="dropdown">
+                                <li><a href="#">On-air</a></li>
+                                <li><a href="#">Online</a></li>
+                                <li><a href="#">On-the-Go</a></li>
+                                <li><a href="#">Research Marketing</a></li>
+                                <li><a href="#">Full Service Production</a></li>
+                            </ul>
+                        </li>                    
+                        <li class="has-dropdown"><a href="#">Markets</a>
+                            <ul class="dropdown">
+                              <li><a href="#">Phoenix, AZ</a></li>
+                              <li><a href="#">Tuscon, AZ</a></li>
+                              <li><a href="#">San Diego, CA</a></li>
+                              <li><a href="#">Santa Barbara, CA</a></li>
+                              <li><a href="#">Hartford, CT</a></li>
+                              <li><a href="#">Gainsville-Ocala, FL</a></li>
+                              <li><a href="#">Mobile-Pensacola-Ft. Walton, FL</a></li>
+                              <li><a href="#">Macon, GA</a></li>
+                              <li><a href="#">Topeka, KS</a></li>
+                              <li><a href="#">Baton Rouge, LA</a></li>
+                              <li><a href="#">Lafayette, LA</a></li>
+                              <li><a href="#">New Orleans, LA</a></li>
+                              <li><a href="#">Omaha, NV</a></li>
+                              <li><a href="#">Las Vegas, NV</a></li>
+                              <li><a href="#">Oklahoma City, OK</a></li>
+                              <li><a href="#">Tulsa, OK</a></li>
+                              <li><a href="#">Providence, RI</a></li>
+                              <li><a href="#">Hampton Road (Norfolk DMA), VA</a></li>
+                              <li><a href="#">Multi-Market Advertising</a></li>
+                              <li><a href="#">Market Detail</a></li>  
+                            </ul>
+                        </li>
+                        <li class="has-dropdown"><a href="#">Toolkit</a>
+                            <ul class="dropdown">
+                                <li><a href="#">Glossary</a></li>              
+                                <li><a href="#">Articles &amp; White Papers</a></li>
+                                <li><a href="#">Document Library</a></li>
+                                <li><a href="#">Media Kit</a></li>
+                                <li><a href="#">SpotXPress</a></li>
+                            </ul>
+                        </li>
+                        <li class="not-click"><a href="#">Contact Us</a></li>
+                    </ul>
+                </section>
+              </nav>
+              <form class="custom show-for-small">
+                  <label for="customDropdown1">Change Your Market</label>
+                  <select class="selectnav" id="selectnav1">
+                      <option>Macon, Ga</option>
+                      <option>Shreveport, LA</option>
+                      <option>Greenville, SC</option>
+                      <option>Charleston, SC</option>
+                  </select>
+              </form>
+          </div>
+      </div>
+    </header>
+	    <span class="header-shadow"></span>
+		<div class="main-row">
+	  		<section role="main">
+	  			<div class="row">
+				  	<div class="small-12 large-9 columns padding-t40">
+				  		<div class="small-12">
+							<ul class="breadcrumbs">
+								<li><a href="#">Home</a></li>
+								<li><a href="#">Products &amp; Services</a></li>
+								<li><a href="#" class="current">Full Service Production</a></li>
+			  				</ul>
+			 			</div>								
+						<div class="small-12">
+						  	<div>
+						  		<h1>Advertise with Cox Media</h1>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Mauris aliquet elit. Mauris aliquet elit. Mauris sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Mauris aliquet elit. Mauris aliquet elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis.</p>
+					  	  	</div>
+						</div>
+						<div class="small-12">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Mauris aliquet elit. Mauris aliquet elit. Mauris</p>
+			  			</div>
+					  	<div class="small-12">
+				  			<h2>Section Header</h2>
+				  		</div>
+				 		<div class="row">
+					  		<div class="small-12 large-4 columns">
+								<img src="images/template-3-img-4.jpg">
+								<h3 class="light-blue">Success Stories</h3>
+								<p>Cox Media provides integrated advertising solutions that work for your unique business to help you achieve your business goals.</p>
+								<a href="#" class="cta">Learn More</a>
+							</div>
+			  	  			<div class="small-12 large-4 columns">
+								<h3 class="light-blue">Design Gallery</h3>
+								<p>Cox Media provides integrated advertising solutions that work for your unique business to help you achieve your business goals.</p>
+								<a href="#" class="cta">Learn More</a>
+							</div>
+						  	<div class="small-12 large-4 columns">
+								<h3 class="light-blue">Title</h3>
+								<p>See how Cox Media can create targeted advertising solutions for you that meet your agency needs.</p>
+								<a href="#" class="cta">Learn More</a>
+			  				</div>
+						</div>
+						<div class="small-12">
+				  	 		<h1>Code Block</h1>
+							<h2>Sub Header</h2>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Mauris aliquet elit. Mauris aliquet elit. Mauris</p>
+							<h3>List Items</h3>
+							<ul>
+								<li>List item 1</li>
+								<li>List item 2</li>
+								<li>List item 3</li>
+								<li>List item 4</li>
+			  			  	</ul>
+						  	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Mauris aliquet elit. Mauris aliquet elit. Mauris</p>
+							<h4>List items with Links</h4>
+							<ul>
+								<li><a href="#">List item with Link 1</a></li>
+								<li><a href="#">List item with Link 2</a></li>
+								<li><a href="#">List item with Link 3</a></li>
+								<li><a href="#">List item with Link 4</a></li>
+								<li><a href="#">List item with Link 5</a></li>
+							</ul> 
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Mauris aliquet elit. Mauris aliquet elit. Mauris vitae facilisis.</p>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis. Lorem ipsum dolor sit amet, consectetur adipis Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Mauris aliquet elit. Mauris aliquet elit. Mauris neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis. Lorem ipsum dolor sit amet, conctetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis. Donec mollis tincidunt dolor vitae facilisis.</p>
+							<h5>Smaller Sub head</h5>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Mauris aliquet elit. Mauris aliquet elit. Maurisvitae facilisis.</p>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis. Lorem ipsum dolor sit amet, consectetur adipis Lo ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eusit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Mauris aliquet elit. Mauris aliquet elit. Mauris imperdiet. Donec mollis tincidunt dolor vitae facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis. Donec mollis tincidunt dolor vitae facilisis.</p>
+							<h6>Smallest Sub head</h6>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donecsit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Mauris aliquet elit. Mauris aliquet elit. Mauris mollis tincidunt dolor vitae facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis.</p>
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis. Lorem ipsum dolor sit amet, consectetur adipiLorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing Lorem ipsum dolor sit amet, consectetur adipiscing  elit. Mauris aliquet elit. Mauris aliquet elit. Maurisimperdiet. Donec mollis tincidunt dolor vitae facilisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet consequat neque eu imperdiet. Donec mollis tincidunt dolor vitae facilisis. Donec mollis tincidunt dolor vitae facilisis.</p>	
+							<h3 class="pink">Colors for Sub Heads</h3>
+							<h3 class="light-blue">Colors for Sub Heads</h3>
+							<h3 class="blue">Colors for Sub Heads</h3>
+					  	</div>
+					</div>
+		  			<div class="small-12 large-3 columns right-col">
+					<div class="full-col light-gray-bg padding-10">
+						<div class="small-12 text-center">
+							<h2><span class="light-blue">Success</span> Stories</h2>
+							<img class="sol-toolkit" src="images/solution-toolkit.png">
+							<p>Build connections with <br>the right customers</p>
+							<a href="#" class="cta"><img class="black-bg" src="images/cta.png"></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	  </div>
+      <div class="footer-shadow"></div>
+      <footer class="site-footer" role="contentinfo">
+          <div class="row">
+            <div class="small-12 no-padding">
+              <p><a href="#">About Cox Media</a>•<a href="#">Cox Enterprises</a>•<a href="#">Cox</a><br><a href="#">Diversity</a>•<a href="#">Careers</a>•<a href="#">Glossary</a>•<a href="#">SpotXpress</a>•<a href="#">Media Kit</a><br><a href="#">Privacy</a>•<a href="#">Visitor Agreement</a>•<a href="#">Mobile Sweepstakes Rules</a></p>
+            </div>
+          </div>
+      </footer>
+  </div>
+</body>
+</html>

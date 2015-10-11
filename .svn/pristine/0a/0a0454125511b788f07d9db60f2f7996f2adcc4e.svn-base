@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_G>
+    <image>
+      <originalFileName>GM-49_ScituateFireDept.jpg</originalFileName>
+      <size>35087</size>
+      <dateLastModified>Thu, 27 Feb 2014 20:12:20 GMT</dateLastModified>
+      <width>160</width>
+      <height>600</height>
+      <cachedImage>
+        <fileName>GM-_714cb91f9f9cd91c55993e35f2a810ec25e8a967477264a205430d7856afefdf.jpeg</fileName>
+        <dateCreated>Thu, 27 Feb 2014 20:13:29 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>37</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_G>
+</imageIndex>

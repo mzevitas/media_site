@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_F>
+    <image>
+      <originalFileName>FYI_hmpg.jpg</originalFileName>
+      <size>32236</size>
+      <dateLastModified>Mon, 14 Apr 2014 13:42:39 GMT</dateLastModified>
+      <width>306</width>
+      <height>140</height>
+      <cachedImage>
+        <fileName>FYI_3f832dea8562435673f788561a43dee6d772e9c3a891f64044ca2345e64ea025.jpeg</fileName>
+        <dateCreated>Mon, 14 Apr 2014 13:43:24 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>407</width>
+        <height>186</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_F>
+</imageIndex>

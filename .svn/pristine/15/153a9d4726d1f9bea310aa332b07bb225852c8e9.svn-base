@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_t>
+    <image>
+      <originalFileName>template-3-img-3.jpg</originalFileName>
+      <size>9490</size>
+      <dateLastModified>Mon, 25 Nov 2013 22:36:44 GMT</dateLastModified>
+      <width>306</width>
+      <height>204</height>
+      <cachedImage>
+        <fileName>TEM_fd7ece1f40fe989579a0dc6e0de4f551319c11f719fa47267a05c7ae5b6b5264.jpeg</fileName>
+        <dateCreated>Mon, 25 Nov 2013 22:36:51 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>305</width>
+        <height>203</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>TEM_04c01cbcdd43e4b867a25b87f1d1994990fcf5744ef36c744a81fa547ce3f9de.jpeg</fileName>
+        <dateCreated>Tue, 10 Dec 2013 21:53:27 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>407</width>
+        <height>271</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>TEM_952212ec1e6995131fb697f0300216cdfecdea644623f5eebe69bd85e92897d5.jpeg</fileName>
+        <dateCreated>Thu, 09 Jan 2014 22:19:42 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>148</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>TEM_251c8d2496d2c7ce2db421c51c07f747e7a83e7b6292221981395e8d4ef19ef0.jpeg</fileName>
+        <dateCreated>Wed, 22 Jan 2014 19:06:25 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>210</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_t>
+</imageIndex>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_S>
+    <image>
+      <originalFileName>SpotXpress_logo_color.png</originalFileName>
+      <size>97699</size>
+      <dateLastModified>Thu, 10 Apr 2014 18:18:14 GMT</dateLastModified>
+      <width>856</width>
+      <height>392</height>
+      <cachedImage>
+        <fileName>SPO_d554ab22bbde0347bfe19a5f4c31cf764b9759e6803b79c32e15605fa0a3661f.png</fileName>
+        <dateCreated>Thu, 10 Apr 2014 18:18:21 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>216</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_S>
+</imageIndex>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_P>
+    <image>
+      <originalFileName>Production.png</originalFileName>
+      <size>106158</size>
+      <dateLastModified>Wed, 12 Mar 2014 12:41:22 GMT</dateLastModified>
+      <width>306</width>
+      <height>204</height>
+      <cachedImage>
+        <fileName>PRO_cfafcac8037dba91be67b6ac78100e854d4af3953fc3d283e773da59ce955416.png</fileName>
+        <dateCreated>Wed, 12 Mar 2014 12:42:35 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>148</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_P>
+</imageIndex>

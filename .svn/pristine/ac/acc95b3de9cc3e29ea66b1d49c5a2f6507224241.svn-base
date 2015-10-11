@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_C>
+    <image>
+      <originalFileName>CDAN_thumbnail.jpg</originalFileName>
+      <size>60691</size>
+      <dateLastModified>Wed, 16 Apr 2014 15:11:14 GMT</dateLastModified>
+      <width>306</width>
+      <height>204</height>
+      <cachedImage>
+        <fileName>CDA_8143f06a6494b0f3c074a86180029f0dfb85107b604ddde20fe0f1732a9d11d2.jpeg</fileName>
+        <dateCreated>Wed, 16 Apr 2014 15:11:54 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>148</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_C>
+</imageIndex>

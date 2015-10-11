@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_M>
+    <image>
+      <originalFileName>MktResearch2.png</originalFileName>
+      <size>107177</size>
+      <dateLastModified>Wed, 12 Mar 2014 13:41:53 GMT</dateLastModified>
+      <width>411</width>
+      <height>188</height>
+      <cachedImage>
+        <fileName>MKT_57fe12aeebf1516c793ea228bbbbfa37dee076da665ebc07228e9ba22639ed50.png</fileName>
+        <dateCreated>Wed, 12 Mar 2014 13:42:29 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>216</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_M>
+</imageIndex>

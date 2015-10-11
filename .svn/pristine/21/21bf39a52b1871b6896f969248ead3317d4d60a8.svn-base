@@ -1,0 +1,1749 @@
+﻿<!DOCTYPE html>
+<!--[if lt IE 9]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gte IE 9]><html class="no-js" lang="en"><![endif]-->
+<!--[if !IE]>-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+    <!--<base href="http://coxmedia.review.def6.com/" />-->
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Cox Media: On-Air Cable TV Advertising - Online Digital Advertising - Cox Media</title>
+
+    <meta name="description" content="Navigating today&#39;s complex on-air cable advertising and online digital advertising landscape can be challenging. Put Cox Media&#39;s expertise to work for you and set your business on the path to continued growth." />
+    <meta name="keywords" content="Cox Media, Advertising, Cox Enterprises" />
+    <meta name="author" content="Cox Media" />
+    <meta name="email" content="info@Coxmedia.com" />
+    <meta name="charset" content="UTF-8" />
+    <meta name="distribution" content="global" />
+    <meta name="rating" content="" />
+    <meta name="robots" content="" />
+    <meta name="revisit-after" content="1 month" />
+    <meta name="canonical" content="" />
+
+    <link rel="stylesheet" href="css/TextStyles.css">
+    <link rel="stylesheet" href="styles/jquery.fullPage.css">
+    <link rel="stylesheet" href="styles/homepage.css">
+    <link rel="stylesheet" href="styles/foundation.css">
+    <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+    <script src="scripts/libs/jquery.js"></script>
+    <script src="scripts/libs/jquery-ui.js"></script>
+    <script src="scripts/libs/jquery.fullPage.js"></script>
+    <script src="scripts/libs/custom.modernizr.js"></script>
+    <script src="scripts/libs/respond.min.js"></script>
+    <script src="scripts/foundation/foundation.js"></script>
+    <script src="scripts/foundation/foundation.forms.js"></script>
+    <script src="scripts/foundation/foundation.reveal.js"></script>
+    <script src="scripts/foundation/foundation.topbar.js"></script>
+    <script src="scripts/libs/selectnav.min.js"></script>
+    <script src="scripts/foundation/jquery.offcanvas.js"></script>
+    <script src="scripts/libs/parsley.js"></script>
+    <script src="scripts/libs/jquery.flexslider-min.js"></script>
+    <script src="scripts/libs/jquery.slimscroll.min.js"></script>
+    <script src="scripts/libs/jquery.easings.min.js"></script>
+    
+    
+    
+
+
+    <script src="scripts/seven.js"></script>
+    <script src="scripts/main.js"></script>
+    <script src="scripts/homepage.js"></script>
+    
+
+    <script type="text/javascript">
+        var _elqQ = _elqQ || [];
+        _elqQ.push(['elqSetSiteId', '319792532']);
+        _elqQ.push(['elqTrackPageView']);
+
+        (function () {
+            function async_load() {
+                var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+                s.src = '//img.en25.com/i/elqCfg.min.js';
+                var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+            }
+            if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
+            else if (window.attachEvent) window.attachEvent('onload', async_load);
+        })();
+    </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-24821574-1', 'coxmedia.com');
+        ga('send', 'pageview');
+
+    </script>
+
+
+</head>
+
+<body id="page" class="off-canvas hide-extras home">
+
+
+<form class="formWrapper">
+    <div id="fixedForm">
+
+    <h3>LET'S MAKE IT POSSIBLE FOR YOU! <span style="color: #fff;">START TODAY</span></h3>
+
+        <input type="text" name="" value="" placeholder="First Name*" />
+        <input type="text" name="" value="" placeholder="Last Name*" />
+        <br>
+        <input type="text" name="" value="" placeholder="Phone*" />
+        <input type="text" name="" value="" placeholder="Email*" />
+        <br>
+        <textarea name="" placeholder="Comments"></textarea>
+        <br>
+        <h4>Or call us at <span style="color: #fff;">1-855-755-2691</span></h4>
+
+        <button type="submit" placeholder="GET STARTED">GET STARTED</button>
+       
+    </div> 
+</form>
+
+<a id="moveDown"><img src="images/downArrowNew.png" alt=""></a>
+
+<a id="moveTo">Top</a>
+
+
+<div id="fullpage" class="fp-responsive">
+ <div class="section fp-auto-height" id="section9">
+    <div class="container">
+        <div class="blue-top">
+            <div class="row text-right">
+                <div class="small-12 columns icons">
+                    <form class="custom">
+                        <label for="customDropdown1"><a href="/markets/">
+                            <img src="/images/location.png" alt="Location" id="locationIcon" /></a></label>
+                        <select class="selectnav" id="selectnav1">
+                            <option value="">Select a Market</option>
+                            <option value="http://coxmedia.review.def6.com/markets/ar-ftsmith-fayetteville.aspx">AR - Ft.Smith-Fayetteville</option>
+                            <option value="http://coxmedia.review.def6.com/markets/az-phoenix.aspx">AZ - Phoenix</option>
+                            <option value="http://coxmedia.review.def6.com/markets/az-tucson.aspx">AZ - Tucson</option>
+                            <option value="http://coxmedia.review.def6.com/markets/ca-san-diego.aspx">CA - San Diego</option>
+                            <option value="http://coxmedia.review.def6.com/markets/ca-santa-barbara.aspx">CA - Santa Barbara</option>
+                            <option value="http://coxmedia.review.def6.com/markets/ct-hartford.aspx">CT - Hartford</option>
+                            <option value="http://coxmedia.review.def6.com/markets/fl-gainesville-ocala.aspx">FL - Gainesville - Ocala</option>
+                            <option value="http://coxmedia.review.def6.com/markets/fl-mobile-pensacola-ftwalton.aspx">FL - Mobile-Pensacola-Ft.Walton</option>
+                            <option value="http://coxmedia.review.def6.com/markets/georgia/ga-macon.aspx">GA - Macon</option>
+                            <option value="http://coxmedia.review.def6.com/markets/ks-topeka.aspx">KS - Topeka</option>
+                            <option value="http://coxmedia.review.def6.com/markets/ks-wichita-hutchinson.aspx">KS - Wichita-Hutchinson</option>
+                            <option value="http://coxmedia.review.def6.com/markets/la-baton-rouge.aspx">LA - Baton Rouge</option>
+                            <option value="http://coxmedia.review.def6.com/markets/la-lafayette.aspx">LA - Lafayette</option>
+                            <option value="http://coxmedia.review.def6.com/markets/la-new-orleans.aspx">LA - New Orleans</option>
+                            <option value="http://coxmedia.review.def6.com/markets/ne-omaha.aspx">NE - Omaha</option>
+                            <option value="http://coxmedia.review.def6.com/markets/nv-las-vegas.aspx">NV - Las Vegas</option>
+                            <option value="http://coxmedia.review.def6.com/markets/ok-oklahoma-city.aspx">OK - Oklahoma City</option>
+                            <option value="http://coxmedia.review.def6.com/markets/ok-tulsa.aspx">OK - Tulsa</option>
+                            <option value="http://coxmedia.review.def6.com/markets/ri-providence.aspx">RI - Providence</option>
+                            <option value="http://coxmedia.review.def6.com/markets/va-hampton-roads.aspx">VA - Hampton Roads</option>
+                        </select>
+                        <a href="https://www.facebook.com/ConnectWithCoxMedia" target="_blank">
+                            <img src="/images/facebook.png" alt="Facebook" id="facebook" /></a>
+                        <a href="https://twitter.com/cox_media" target="_blank">
+                            <img src="/images/twitter.png" alt="Twitter" id="twitter" /></a>
+                        <a href="http://www.linkedin.com/company/cox-media?trk=company_name" target="_blank">
+                            <img src="/images/linkedIn.png" alt="LinkedIn" id="linkedIn" /></a>
+                    </form>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script language="javascript" type="text/javascript">
+        try {
+            $('.selectnav').val('');
+        }
+        catch (err) {
+            $('.selectnav').val('');
+        }
+    </script>
+
+    <header id="header">
+        <div class="row">
+            <div class="small-12">
+                <nav class="top-bar">
+                    <ul class="title-area">
+                        <li class="name hide-for-small"><a href="/" class="logo">
+                            <img src="/images/cox-logo.png"></a></li>
+                        <li class="toggle-topbar menu-icon"><a href=""><span></span></a></li>
+                        <li class="name show-for-small"><a href="/" class="logo">
+                            <img src="/images/cox-logo.png"></a></li>
+                    </ul>
+                    <section class="top-bar-section">
+
+                        <ul>
+                            <li class="has-dropdown">
+                                <a href="http://coxmedia.review.def6.com/advertise-with-us.aspx" class="desktopNav">Advertise With Us</a>
+                                <ul class="dropdown">
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/for-local-businesses.aspx" class="desktopNav">For Local Businesses</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/for-agencies.aspx" class="desktopNav">For Agencies</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/multi-market-advertising.aspx" class="desktopNav">Multi-Market Advertising</a>
+
+                                    </li>
+                                    <li class="not-click">
+                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success.aspx" class="desktopNav">Client Success</a>
+                                        <ul class="dropdown">
+                                            <li class="has-dropdown">
+                                                <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies.aspx" class="desktopNav">Case Studies</a>
+                                                <ul class="dropdown">
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/how-to-promotions,-videos-drive-traffic-to-concrete-companys-front-door.aspx" class="desktopNav">&quot;How-To&quot; Promotions, Videos Drive Traffic to Concrete Company&#39;s Front Door</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-advertising-effort-grows-awareness-and-visitors.aspx" class="desktopNav">Targeted Advertising Effort Grows Awareness And Visitors</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/high-frequency-commercial-schedule-improves-brand-recognition.aspx" class="desktopNav">High Frequency Commercial Schedule Improves Brand Recognition</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dedicated-cable-channel-provides-hospital-key-platform-for-informative-health-videos.aspx" class="desktopNav">Dedicated Cable Channel Provides Hospital Key Platform for Informative Health Videos</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-cable-and-online-advertising-increases-awareness,-engagement.aspx" class="desktopNav">Targeted Cable and Online Advertising Increases Awareness, Engagement</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/green-beetle-uses-cable-advertising-to-rope-in-survival-enthusiasts-and-increase-retail-sales.aspx" class="desktopNav">Green Beetle Uses Cable Advertising to Rope-In Survival Enthusiasts and Increase Retail Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/auto-dealer-receives-customized-advertising-solution.aspx" class="desktopNav">Auto Dealer Receives Customized Advertising Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/the-home-of-the-lumineer-makeover-finds-a-complete-media-solution.aspx" class="desktopNav">The Home of the Lumineer Makeover Finds a Complete Media Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/thousands-driven-to-website-through-commercial-led-scavenger-hunt.aspx" class="desktopNav">Thousands Driven to Website Through Commercial-Led Scavenger Hunt</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/real-estate-firms-open-house-approach-creates-50-increase-in-sales.aspx" class="desktopNav">Real Estate Firm&#39;s Open House Approach Creates 50% Increase in Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/prejeans-restaurant,-simply-good-results.aspx" class="desktopNav">Prejean&#39;s Restaurant, Simply Good Results</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cox-media-provides-cable-programming-tie-in-at-auto-dealers-grand-opening.aspx" class="desktopNav">Cox Media Provides Cable Programming Tie-in at Auto Dealer&#39;s Grand Opening</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-helps-dentist-increase-visibility-in-local-marketplace.aspx" class="desktopNav">Express Link Helps Dentist Increase Visibility in Local Marketplace</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/modern-furniture-store-finds-a-home-on-cable.aspx" class="desktopNav">Modern Furniture Store Finds a Home on Cable</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cable-advertising-helps-create-awareness-for-a-local-salon-and-spa.aspx" class="desktopNav">Cable Advertising Helps Create Awareness for a Local Salon and Spa</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/new-commercial-boosts-brand-awareness-for-fine-furniture-store.aspx" class="desktopNav">New Commercial Boosts Brand Awareness for Fine Furniture Store</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/entertainment-advertising-rocks-for-global-concert-producer-and-online-ticketing-vendor.aspx" class="desktopNav">Entertainment Advertising Rocks for Global Concert Producer and Online Ticketing Vendor</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dr-feffer-success.aspx" class="desktopNav">Dr Feffer Success</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-channel-speaks-directly-to-target-audience.aspx" class="desktopNav">Express Link Channel speaks directly to target audience</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/reality-tv,-express-link-spotlights-closet-factory.aspx" class="desktopNav">Reality TV, Express Link Spotlights Closet Factory</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/securing-brand-position-for-experience-based-university.aspx" class="desktopNav">Securing Brand Position for Experience-Based University</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/hartford-auto-dealer-sees-lift-in-sales-with-online-advertising-from-cox-media.aspx" class="desktopNav">Hartford Auto Dealer Sees Lift in Sales with Online Advertising from Cox Media</a>
+
+                                                    </li>
+                                                </ul>
+
+                                            </li>
+                                            <li class="has-dropdown mobile-display-subnav">
+                                                <a href="" class="mobileNavItem">>></a>
+                                                <ul class="dropdown">
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/how-to-promotions,-videos-drive-traffic-to-concrete-companys-front-door.aspx" class="desktopNav">&quot;How-To&quot; Promotions, Videos Drive Traffic to Concrete Company&#39;s Front Door</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-advertising-effort-grows-awareness-and-visitors.aspx" class="desktopNav">Targeted Advertising Effort Grows Awareness And Visitors</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/high-frequency-commercial-schedule-improves-brand-recognition.aspx" class="desktopNav">High Frequency Commercial Schedule Improves Brand Recognition</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dedicated-cable-channel-provides-hospital-key-platform-for-informative-health-videos.aspx" class="desktopNav">Dedicated Cable Channel Provides Hospital Key Platform for Informative Health Videos</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-cable-and-online-advertising-increases-awareness,-engagement.aspx" class="desktopNav">Targeted Cable and Online Advertising Increases Awareness, Engagement</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/green-beetle-uses-cable-advertising-to-rope-in-survival-enthusiasts-and-increase-retail-sales.aspx" class="desktopNav">Green Beetle Uses Cable Advertising to Rope-In Survival Enthusiasts and Increase Retail Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/auto-dealer-receives-customized-advertising-solution.aspx" class="desktopNav">Auto Dealer Receives Customized Advertising Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/the-home-of-the-lumineer-makeover-finds-a-complete-media-solution.aspx" class="desktopNav">The Home of the Lumineer Makeover Finds a Complete Media Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/thousands-driven-to-website-through-commercial-led-scavenger-hunt.aspx" class="desktopNav">Thousands Driven to Website Through Commercial-Led Scavenger Hunt</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/real-estate-firms-open-house-approach-creates-50-increase-in-sales.aspx" class="desktopNav">Real Estate Firm&#39;s Open House Approach Creates 50% Increase in Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/prejeans-restaurant,-simply-good-results.aspx" class="desktopNav">Prejean&#39;s Restaurant, Simply Good Results</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cox-media-provides-cable-programming-tie-in-at-auto-dealers-grand-opening.aspx" class="desktopNav">Cox Media Provides Cable Programming Tie-in at Auto Dealer&#39;s Grand Opening</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-helps-dentist-increase-visibility-in-local-marketplace.aspx" class="desktopNav">Express Link Helps Dentist Increase Visibility in Local Marketplace</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/modern-furniture-store-finds-a-home-on-cable.aspx" class="desktopNav">Modern Furniture Store Finds a Home on Cable</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cable-advertising-helps-create-awareness-for-a-local-salon-and-spa.aspx" class="desktopNav">Cable Advertising Helps Create Awareness for a Local Salon and Spa</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/new-commercial-boosts-brand-awareness-for-fine-furniture-store.aspx" class="desktopNav">New Commercial Boosts Brand Awareness for Fine Furniture Store</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/entertainment-advertising-rocks-for-global-concert-producer-and-online-ticketing-vendor.aspx" class="desktopNav">Entertainment Advertising Rocks for Global Concert Producer and Online Ticketing Vendor</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dr-feffer-success.aspx" class="desktopNav">Dr Feffer Success</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-channel-speaks-directly-to-target-audience.aspx" class="desktopNav">Express Link Channel speaks directly to target audience</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/reality-tv,-express-link-spotlights-closet-factory.aspx" class="desktopNav">Reality TV, Express Link Spotlights Closet Factory</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/securing-brand-position-for-experience-based-university.aspx" class="desktopNav">Securing Brand Position for Experience-Based University</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/hartford-auto-dealer-sees-lift-in-sales-with-online-advertising-from-cox-media.aspx" class="desktopNav">Hartford Auto Dealer Sees Lift in Sales with Online Advertising from Cox Media</a>
+
+                                                    </li>
+                                                </ul>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/videos.aspx" class="desktopNav">Videos</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/testimonials.aspx" class="desktopNav">Testimonials</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="not-click mobile-display-subnav">
+                                        <a href="" class="mobileNavItem">>></a>
+                                        <ul class="dropdown">
+                                            <li class="has-dropdown">
+                                                <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies.aspx" class="desktopNav">Case Studies</a>
+                                                <ul class="dropdown">
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/how-to-promotions,-videos-drive-traffic-to-concrete-companys-front-door.aspx" class="desktopNav">&quot;How-To&quot; Promotions, Videos Drive Traffic to Concrete Company&#39;s Front Door</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-advertising-effort-grows-awareness-and-visitors.aspx" class="desktopNav">Targeted Advertising Effort Grows Awareness And Visitors</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/high-frequency-commercial-schedule-improves-brand-recognition.aspx" class="desktopNav">High Frequency Commercial Schedule Improves Brand Recognition</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dedicated-cable-channel-provides-hospital-key-platform-for-informative-health-videos.aspx" class="desktopNav">Dedicated Cable Channel Provides Hospital Key Platform for Informative Health Videos</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-cable-and-online-advertising-increases-awareness,-engagement.aspx" class="desktopNav">Targeted Cable and Online Advertising Increases Awareness, Engagement</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/green-beetle-uses-cable-advertising-to-rope-in-survival-enthusiasts-and-increase-retail-sales.aspx" class="desktopNav">Green Beetle Uses Cable Advertising to Rope-In Survival Enthusiasts and Increase Retail Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/auto-dealer-receives-customized-advertising-solution.aspx" class="desktopNav">Auto Dealer Receives Customized Advertising Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/the-home-of-the-lumineer-makeover-finds-a-complete-media-solution.aspx" class="desktopNav">The Home of the Lumineer Makeover Finds a Complete Media Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/thousands-driven-to-website-through-commercial-led-scavenger-hunt.aspx" class="desktopNav">Thousands Driven to Website Through Commercial-Led Scavenger Hunt</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/real-estate-firms-open-house-approach-creates-50-increase-in-sales.aspx" class="desktopNav">Real Estate Firm&#39;s Open House Approach Creates 50% Increase in Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/prejeans-restaurant,-simply-good-results.aspx" class="desktopNav">Prejean&#39;s Restaurant, Simply Good Results</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cox-media-provides-cable-programming-tie-in-at-auto-dealers-grand-opening.aspx" class="desktopNav">Cox Media Provides Cable Programming Tie-in at Auto Dealer&#39;s Grand Opening</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-helps-dentist-increase-visibility-in-local-marketplace.aspx" class="desktopNav">Express Link Helps Dentist Increase Visibility in Local Marketplace</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/modern-furniture-store-finds-a-home-on-cable.aspx" class="desktopNav">Modern Furniture Store Finds a Home on Cable</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cable-advertising-helps-create-awareness-for-a-local-salon-and-spa.aspx" class="desktopNav">Cable Advertising Helps Create Awareness for a Local Salon and Spa</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/new-commercial-boosts-brand-awareness-for-fine-furniture-store.aspx" class="desktopNav">New Commercial Boosts Brand Awareness for Fine Furniture Store</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/entertainment-advertising-rocks-for-global-concert-producer-and-online-ticketing-vendor.aspx" class="desktopNav">Entertainment Advertising Rocks for Global Concert Producer and Online Ticketing Vendor</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dr-feffer-success.aspx" class="desktopNav">Dr Feffer Success</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-channel-speaks-directly-to-target-audience.aspx" class="desktopNav">Express Link Channel speaks directly to target audience</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/reality-tv,-express-link-spotlights-closet-factory.aspx" class="desktopNav">Reality TV, Express Link Spotlights Closet Factory</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/securing-brand-position-for-experience-based-university.aspx" class="desktopNav">Securing Brand Position for Experience-Based University</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/hartford-auto-dealer-sees-lift-in-sales-with-online-advertising-from-cox-media.aspx" class="desktopNav">Hartford Auto Dealer Sees Lift in Sales with Online Advertising from Cox Media</a>
+
+                                                    </li>
+                                                </ul>
+
+                                            </li>
+                                            <li class="has-dropdown mobile-display-subnav">
+                                                <a href="" class="mobileNavItem">>></a>
+                                                <ul class="dropdown">
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/how-to-promotions,-videos-drive-traffic-to-concrete-companys-front-door.aspx" class="desktopNav">&quot;How-To&quot; Promotions, Videos Drive Traffic to Concrete Company&#39;s Front Door</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-advertising-effort-grows-awareness-and-visitors.aspx" class="desktopNav">Targeted Advertising Effort Grows Awareness And Visitors</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/high-frequency-commercial-schedule-improves-brand-recognition.aspx" class="desktopNav">High Frequency Commercial Schedule Improves Brand Recognition</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dedicated-cable-channel-provides-hospital-key-platform-for-informative-health-videos.aspx" class="desktopNav">Dedicated Cable Channel Provides Hospital Key Platform for Informative Health Videos</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-cable-and-online-advertising-increases-awareness,-engagement.aspx" class="desktopNav">Targeted Cable and Online Advertising Increases Awareness, Engagement</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/green-beetle-uses-cable-advertising-to-rope-in-survival-enthusiasts-and-increase-retail-sales.aspx" class="desktopNav">Green Beetle Uses Cable Advertising to Rope-In Survival Enthusiasts and Increase Retail Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/auto-dealer-receives-customized-advertising-solution.aspx" class="desktopNav">Auto Dealer Receives Customized Advertising Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/the-home-of-the-lumineer-makeover-finds-a-complete-media-solution.aspx" class="desktopNav">The Home of the Lumineer Makeover Finds a Complete Media Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/thousands-driven-to-website-through-commercial-led-scavenger-hunt.aspx" class="desktopNav">Thousands Driven to Website Through Commercial-Led Scavenger Hunt</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/real-estate-firms-open-house-approach-creates-50-increase-in-sales.aspx" class="desktopNav">Real Estate Firm&#39;s Open House Approach Creates 50% Increase in Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/prejeans-restaurant,-simply-good-results.aspx" class="desktopNav">Prejean&#39;s Restaurant, Simply Good Results</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cox-media-provides-cable-programming-tie-in-at-auto-dealers-grand-opening.aspx" class="desktopNav">Cox Media Provides Cable Programming Tie-in at Auto Dealer&#39;s Grand Opening</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-helps-dentist-increase-visibility-in-local-marketplace.aspx" class="desktopNav">Express Link Helps Dentist Increase Visibility in Local Marketplace</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/modern-furniture-store-finds-a-home-on-cable.aspx" class="desktopNav">Modern Furniture Store Finds a Home on Cable</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cable-advertising-helps-create-awareness-for-a-local-salon-and-spa.aspx" class="desktopNav">Cable Advertising Helps Create Awareness for a Local Salon and Spa</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/new-commercial-boosts-brand-awareness-for-fine-furniture-store.aspx" class="desktopNav">New Commercial Boosts Brand Awareness for Fine Furniture Store</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/entertainment-advertising-rocks-for-global-concert-producer-and-online-ticketing-vendor.aspx" class="desktopNav">Entertainment Advertising Rocks for Global Concert Producer and Online Ticketing Vendor</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dr-feffer-success.aspx" class="desktopNav">Dr Feffer Success</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-channel-speaks-directly-to-target-audience.aspx" class="desktopNav">Express Link Channel speaks directly to target audience</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/reality-tv,-express-link-spotlights-closet-factory.aspx" class="desktopNav">Reality TV, Express Link Spotlights Closet Factory</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/securing-brand-position-for-experience-based-university.aspx" class="desktopNav">Securing Brand Position for Experience-Based University</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/hartford-auto-dealer-sees-lift-in-sales-with-online-advertising-from-cox-media.aspx" class="desktopNav">Hartford Auto Dealer Sees Lift in Sales with Online Advertising from Cox Media</a>
+
+                                                    </li>
+                                                </ul>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/videos.aspx" class="desktopNav">Videos</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/testimonials.aspx" class="desktopNav">Testimonials</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="has-dropdown">
+                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/creative-gallery.aspx" class="desktopNav">Creative Gallery</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia-dmk.review.def6.com/" target="_self" class="desktopNav">Media Kit</a>
+
+                                    </li>
+                                </ul>
+
+                            </li>
+                            <li class="has-dropdown mobile-display-subnav">
+                                <a href="" class="mobileNavItem">>></a>
+                                <ul class="dropdown">
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/for-local-businesses.aspx" class="desktopNav">For Local Businesses</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/for-agencies.aspx" class="desktopNav">For Agencies</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/multi-market-advertising.aspx" class="desktopNav">Multi-Market Advertising</a>
+
+                                    </li>
+                                    <li class="not-click">
+                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success.aspx" class="desktopNav">Client Success</a>
+                                        <ul class="dropdown">
+                                            <li class="has-dropdown">
+                                                <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies.aspx" class="desktopNav">Case Studies</a>
+                                                <ul class="dropdown">
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/how-to-promotions,-videos-drive-traffic-to-concrete-companys-front-door.aspx" class="desktopNav">&quot;How-To&quot; Promotions, Videos Drive Traffic to Concrete Company&#39;s Front Door</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-advertising-effort-grows-awareness-and-visitors.aspx" class="desktopNav">Targeted Advertising Effort Grows Awareness And Visitors</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/high-frequency-commercial-schedule-improves-brand-recognition.aspx" class="desktopNav">High Frequency Commercial Schedule Improves Brand Recognition</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dedicated-cable-channel-provides-hospital-key-platform-for-informative-health-videos.aspx" class="desktopNav">Dedicated Cable Channel Provides Hospital Key Platform for Informative Health Videos</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-cable-and-online-advertising-increases-awareness,-engagement.aspx" class="desktopNav">Targeted Cable and Online Advertising Increases Awareness, Engagement</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/green-beetle-uses-cable-advertising-to-rope-in-survival-enthusiasts-and-increase-retail-sales.aspx" class="desktopNav">Green Beetle Uses Cable Advertising to Rope-In Survival Enthusiasts and Increase Retail Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/auto-dealer-receives-customized-advertising-solution.aspx" class="desktopNav">Auto Dealer Receives Customized Advertising Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/the-home-of-the-lumineer-makeover-finds-a-complete-media-solution.aspx" class="desktopNav">The Home of the Lumineer Makeover Finds a Complete Media Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/thousands-driven-to-website-through-commercial-led-scavenger-hunt.aspx" class="desktopNav">Thousands Driven to Website Through Commercial-Led Scavenger Hunt</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/real-estate-firms-open-house-approach-creates-50-increase-in-sales.aspx" class="desktopNav">Real Estate Firm&#39;s Open House Approach Creates 50% Increase in Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/prejeans-restaurant,-simply-good-results.aspx" class="desktopNav">Prejean&#39;s Restaurant, Simply Good Results</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cox-media-provides-cable-programming-tie-in-at-auto-dealers-grand-opening.aspx" class="desktopNav">Cox Media Provides Cable Programming Tie-in at Auto Dealer&#39;s Grand Opening</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-helps-dentist-increase-visibility-in-local-marketplace.aspx" class="desktopNav">Express Link Helps Dentist Increase Visibility in Local Marketplace</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/modern-furniture-store-finds-a-home-on-cable.aspx" class="desktopNav">Modern Furniture Store Finds a Home on Cable</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cable-advertising-helps-create-awareness-for-a-local-salon-and-spa.aspx" class="desktopNav">Cable Advertising Helps Create Awareness for a Local Salon and Spa</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/new-commercial-boosts-brand-awareness-for-fine-furniture-store.aspx" class="desktopNav">New Commercial Boosts Brand Awareness for Fine Furniture Store</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/entertainment-advertising-rocks-for-global-concert-producer-and-online-ticketing-vendor.aspx" class="desktopNav">Entertainment Advertising Rocks for Global Concert Producer and Online Ticketing Vendor</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dr-feffer-success.aspx" class="desktopNav">Dr Feffer Success</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-channel-speaks-directly-to-target-audience.aspx" class="desktopNav">Express Link Channel speaks directly to target audience</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/reality-tv,-express-link-spotlights-closet-factory.aspx" class="desktopNav">Reality TV, Express Link Spotlights Closet Factory</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/securing-brand-position-for-experience-based-university.aspx" class="desktopNav">Securing Brand Position for Experience-Based University</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/hartford-auto-dealer-sees-lift-in-sales-with-online-advertising-from-cox-media.aspx" class="desktopNav">Hartford Auto Dealer Sees Lift in Sales with Online Advertising from Cox Media</a>
+
+                                                    </li>
+                                                </ul>
+
+                                            </li>
+                                            <li class="has-dropdown mobile-display-subnav">
+                                                <a href="" class="mobileNavItem">>></a>
+                                                <ul class="dropdown">
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/how-to-promotions,-videos-drive-traffic-to-concrete-companys-front-door.aspx" class="desktopNav">&quot;How-To&quot; Promotions, Videos Drive Traffic to Concrete Company&#39;s Front Door</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-advertising-effort-grows-awareness-and-visitors.aspx" class="desktopNav">Targeted Advertising Effort Grows Awareness And Visitors</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/high-frequency-commercial-schedule-improves-brand-recognition.aspx" class="desktopNav">High Frequency Commercial Schedule Improves Brand Recognition</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dedicated-cable-channel-provides-hospital-key-platform-for-informative-health-videos.aspx" class="desktopNav">Dedicated Cable Channel Provides Hospital Key Platform for Informative Health Videos</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-cable-and-online-advertising-increases-awareness,-engagement.aspx" class="desktopNav">Targeted Cable and Online Advertising Increases Awareness, Engagement</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/green-beetle-uses-cable-advertising-to-rope-in-survival-enthusiasts-and-increase-retail-sales.aspx" class="desktopNav">Green Beetle Uses Cable Advertising to Rope-In Survival Enthusiasts and Increase Retail Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/auto-dealer-receives-customized-advertising-solution.aspx" class="desktopNav">Auto Dealer Receives Customized Advertising Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/the-home-of-the-lumineer-makeover-finds-a-complete-media-solution.aspx" class="desktopNav">The Home of the Lumineer Makeover Finds a Complete Media Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/thousands-driven-to-website-through-commercial-led-scavenger-hunt.aspx" class="desktopNav">Thousands Driven to Website Through Commercial-Led Scavenger Hunt</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/real-estate-firms-open-house-approach-creates-50-increase-in-sales.aspx" class="desktopNav">Real Estate Firm&#39;s Open House Approach Creates 50% Increase in Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/prejeans-restaurant,-simply-good-results.aspx" class="desktopNav">Prejean&#39;s Restaurant, Simply Good Results</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cox-media-provides-cable-programming-tie-in-at-auto-dealers-grand-opening.aspx" class="desktopNav">Cox Media Provides Cable Programming Tie-in at Auto Dealer&#39;s Grand Opening</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-helps-dentist-increase-visibility-in-local-marketplace.aspx" class="desktopNav">Express Link Helps Dentist Increase Visibility in Local Marketplace</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/modern-furniture-store-finds-a-home-on-cable.aspx" class="desktopNav">Modern Furniture Store Finds a Home on Cable</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cable-advertising-helps-create-awareness-for-a-local-salon-and-spa.aspx" class="desktopNav">Cable Advertising Helps Create Awareness for a Local Salon and Spa</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/new-commercial-boosts-brand-awareness-for-fine-furniture-store.aspx" class="desktopNav">New Commercial Boosts Brand Awareness for Fine Furniture Store</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/entertainment-advertising-rocks-for-global-concert-producer-and-online-ticketing-vendor.aspx" class="desktopNav">Entertainment Advertising Rocks for Global Concert Producer and Online Ticketing Vendor</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dr-feffer-success.aspx" class="desktopNav">Dr Feffer Success</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-channel-speaks-directly-to-target-audience.aspx" class="desktopNav">Express Link Channel speaks directly to target audience</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/reality-tv,-express-link-spotlights-closet-factory.aspx" class="desktopNav">Reality TV, Express Link Spotlights Closet Factory</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/securing-brand-position-for-experience-based-university.aspx" class="desktopNav">Securing Brand Position for Experience-Based University</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/hartford-auto-dealer-sees-lift-in-sales-with-online-advertising-from-cox-media.aspx" class="desktopNav">Hartford Auto Dealer Sees Lift in Sales with Online Advertising from Cox Media</a>
+
+                                                    </li>
+                                                </ul>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/videos.aspx" class="desktopNav">Videos</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/testimonials.aspx" class="desktopNav">Testimonials</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="not-click mobile-display-subnav">
+                                        <a href="" class="mobileNavItem">>></a>
+                                        <ul class="dropdown">
+                                            <li class="has-dropdown">
+                                                <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies.aspx" class="desktopNav">Case Studies</a>
+                                                <ul class="dropdown">
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/how-to-promotions,-videos-drive-traffic-to-concrete-companys-front-door.aspx" class="desktopNav">&quot;How-To&quot; Promotions, Videos Drive Traffic to Concrete Company&#39;s Front Door</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-advertising-effort-grows-awareness-and-visitors.aspx" class="desktopNav">Targeted Advertising Effort Grows Awareness And Visitors</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/high-frequency-commercial-schedule-improves-brand-recognition.aspx" class="desktopNav">High Frequency Commercial Schedule Improves Brand Recognition</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dedicated-cable-channel-provides-hospital-key-platform-for-informative-health-videos.aspx" class="desktopNav">Dedicated Cable Channel Provides Hospital Key Platform for Informative Health Videos</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-cable-and-online-advertising-increases-awareness,-engagement.aspx" class="desktopNav">Targeted Cable and Online Advertising Increases Awareness, Engagement</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/green-beetle-uses-cable-advertising-to-rope-in-survival-enthusiasts-and-increase-retail-sales.aspx" class="desktopNav">Green Beetle Uses Cable Advertising to Rope-In Survival Enthusiasts and Increase Retail Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/auto-dealer-receives-customized-advertising-solution.aspx" class="desktopNav">Auto Dealer Receives Customized Advertising Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/the-home-of-the-lumineer-makeover-finds-a-complete-media-solution.aspx" class="desktopNav">The Home of the Lumineer Makeover Finds a Complete Media Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/thousands-driven-to-website-through-commercial-led-scavenger-hunt.aspx" class="desktopNav">Thousands Driven to Website Through Commercial-Led Scavenger Hunt</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/real-estate-firms-open-house-approach-creates-50-increase-in-sales.aspx" class="desktopNav">Real Estate Firm&#39;s Open House Approach Creates 50% Increase in Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/prejeans-restaurant,-simply-good-results.aspx" class="desktopNav">Prejean&#39;s Restaurant, Simply Good Results</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cox-media-provides-cable-programming-tie-in-at-auto-dealers-grand-opening.aspx" class="desktopNav">Cox Media Provides Cable Programming Tie-in at Auto Dealer&#39;s Grand Opening</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-helps-dentist-increase-visibility-in-local-marketplace.aspx" class="desktopNav">Express Link Helps Dentist Increase Visibility in Local Marketplace</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/modern-furniture-store-finds-a-home-on-cable.aspx" class="desktopNav">Modern Furniture Store Finds a Home on Cable</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cable-advertising-helps-create-awareness-for-a-local-salon-and-spa.aspx" class="desktopNav">Cable Advertising Helps Create Awareness for a Local Salon and Spa</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/new-commercial-boosts-brand-awareness-for-fine-furniture-store.aspx" class="desktopNav">New Commercial Boosts Brand Awareness for Fine Furniture Store</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/entertainment-advertising-rocks-for-global-concert-producer-and-online-ticketing-vendor.aspx" class="desktopNav">Entertainment Advertising Rocks for Global Concert Producer and Online Ticketing Vendor</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dr-feffer-success.aspx" class="desktopNav">Dr Feffer Success</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-channel-speaks-directly-to-target-audience.aspx" class="desktopNav">Express Link Channel speaks directly to target audience</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/reality-tv,-express-link-spotlights-closet-factory.aspx" class="desktopNav">Reality TV, Express Link Spotlights Closet Factory</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/securing-brand-position-for-experience-based-university.aspx" class="desktopNav">Securing Brand Position for Experience-Based University</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/hartford-auto-dealer-sees-lift-in-sales-with-online-advertising-from-cox-media.aspx" class="desktopNav">Hartford Auto Dealer Sees Lift in Sales with Online Advertising from Cox Media</a>
+
+                                                    </li>
+                                                </ul>
+
+                                            </li>
+                                            <li class="has-dropdown mobile-display-subnav">
+                                                <a href="" class="mobileNavItem">>></a>
+                                                <ul class="dropdown">
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/how-to-promotions,-videos-drive-traffic-to-concrete-companys-front-door.aspx" class="desktopNav">&quot;How-To&quot; Promotions, Videos Drive Traffic to Concrete Company&#39;s Front Door</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-advertising-effort-grows-awareness-and-visitors.aspx" class="desktopNav">Targeted Advertising Effort Grows Awareness And Visitors</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/high-frequency-commercial-schedule-improves-brand-recognition.aspx" class="desktopNav">High Frequency Commercial Schedule Improves Brand Recognition</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dedicated-cable-channel-provides-hospital-key-platform-for-informative-health-videos.aspx" class="desktopNav">Dedicated Cable Channel Provides Hospital Key Platform for Informative Health Videos</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/targeted-cable-and-online-advertising-increases-awareness,-engagement.aspx" class="desktopNav">Targeted Cable and Online Advertising Increases Awareness, Engagement</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/green-beetle-uses-cable-advertising-to-rope-in-survival-enthusiasts-and-increase-retail-sales.aspx" class="desktopNav">Green Beetle Uses Cable Advertising to Rope-In Survival Enthusiasts and Increase Retail Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/auto-dealer-receives-customized-advertising-solution.aspx" class="desktopNav">Auto Dealer Receives Customized Advertising Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/the-home-of-the-lumineer-makeover-finds-a-complete-media-solution.aspx" class="desktopNav">The Home of the Lumineer Makeover Finds a Complete Media Solution</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/thousands-driven-to-website-through-commercial-led-scavenger-hunt.aspx" class="desktopNav">Thousands Driven to Website Through Commercial-Led Scavenger Hunt</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/real-estate-firms-open-house-approach-creates-50-increase-in-sales.aspx" class="desktopNav">Real Estate Firm&#39;s Open House Approach Creates 50% Increase in Sales</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/prejeans-restaurant,-simply-good-results.aspx" class="desktopNav">Prejean&#39;s Restaurant, Simply Good Results</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cox-media-provides-cable-programming-tie-in-at-auto-dealers-grand-opening.aspx" class="desktopNav">Cox Media Provides Cable Programming Tie-in at Auto Dealer&#39;s Grand Opening</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-helps-dentist-increase-visibility-in-local-marketplace.aspx" class="desktopNav">Express Link Helps Dentist Increase Visibility in Local Marketplace</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/modern-furniture-store-finds-a-home-on-cable.aspx" class="desktopNav">Modern Furniture Store Finds a Home on Cable</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/cable-advertising-helps-create-awareness-for-a-local-salon-and-spa.aspx" class="desktopNav">Cable Advertising Helps Create Awareness for a Local Salon and Spa</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/new-commercial-boosts-brand-awareness-for-fine-furniture-store.aspx" class="desktopNav">New Commercial Boosts Brand Awareness for Fine Furniture Store</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/entertainment-advertising-rocks-for-global-concert-producer-and-online-ticketing-vendor.aspx" class="desktopNav">Entertainment Advertising Rocks for Global Concert Producer and Online Ticketing Vendor</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/dr-feffer-success.aspx" class="desktopNav">Dr Feffer Success</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/express-link-channel-speaks-directly-to-target-audience.aspx" class="desktopNav">Express Link Channel speaks directly to target audience</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/reality-tv,-express-link-spotlights-closet-factory.aspx" class="desktopNav">Reality TV, Express Link Spotlights Closet Factory</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/securing-brand-position-for-experience-based-university.aspx" class="desktopNav">Securing Brand Position for Experience-Based University</a>
+
+                                                    </li>
+                                                    <li class="">
+                                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/case-studies/hartford-auto-dealer-sees-lift-in-sales-with-online-advertising-from-cox-media.aspx" class="desktopNav">Hartford Auto Dealer Sees Lift in Sales with Online Advertising from Cox Media</a>
+
+                                                    </li>
+                                                </ul>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/videos.aspx" class="desktopNav">Videos</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/advertise-with-us/client-success/testimonials.aspx" class="desktopNav">Testimonials</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="has-dropdown">
+                                        <a href="http://coxmedia.review.def6.com/advertise-with-us/creative-gallery.aspx" class="desktopNav">Creative Gallery</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia-dmk.review.def6.com/" target="_self" class="desktopNav">Media Kit</a>
+
+                                    </li>
+                                </ul>
+
+                            </li>
+                            <li class="has-dropdown">
+                                <a href="http://coxmedia.review.def6.com/products-and-services.aspx" class="desktopNav">Products and Services</a>
+                                <ul class="dropdown">
+                                    <li class="has-dropdown">
+                                        <a href="http://coxmedia.review.def6.com/products-and-services/on-air.aspx" class="desktopNav">On Air</a>
+                                        <ul class="dropdown">
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/commercials.aspx" class="desktopNav">Commercials</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/express-link.aspx" class="desktopNav">Express Link</a>
+
+                                            </li>
+                                            <li class="has-dropdown">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/networks.aspx" class="desktopNav">Networks</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/sports-programming.aspx" class="desktopNav">Sports Programming</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/political-advertising.aspx" class="desktopNav">Political Advertising</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/video-production.aspx" class="desktopNav">Video Production</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="has-dropdown mobile-display-subnav">
+                                        <a href="" class="mobileNavItem">>></a>
+                                        <ul class="dropdown">
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/commercials.aspx" class="desktopNav">Commercials</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/express-link.aspx" class="desktopNav">Express Link</a>
+
+                                            </li>
+                                            <li class="has-dropdown">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/networks.aspx" class="desktopNav">Networks</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/sports-programming.aspx" class="desktopNav">Sports Programming</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/political-advertising.aspx" class="desktopNav">Political Advertising</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/video-production.aspx" class="desktopNav">Video Production</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="has-dropdown">
+                                        <a href="http://coxmedia.review.def6.com/products-and-services/online.aspx" class="desktopNav">Online</a>
+                                        <ul class="dropdown">
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/online/coxcom.aspx" class="desktopNav">Cox.com</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/online/cox-digital-ad-network-solutions.aspx" class="desktopNav">Cox Digital Ad Network Solutions</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/online/online-video.aspx" class="desktopNav">Online Video</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="has-dropdown mobile-display-subnav">
+                                        <a href="" class="mobileNavItem">>></a>
+                                        <ul class="dropdown">
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/online/coxcom.aspx" class="desktopNav">Cox.com</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/online/cox-digital-ad-network-solutions.aspx" class="desktopNav">Cox Digital Ad Network Solutions</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/online/online-video.aspx" class="desktopNav">Online Video</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/products-and-services/on-the-go.aspx" class="desktopNav">On-the-Go</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/products-and-services/full-service-production.aspx" class="desktopNav">Full Service Production</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/products-and-services/research-analytics.aspx" class="desktopNav">Research &amp; Analytics</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/products-and-services/spotxpress.aspx" class="desktopNav">SpotXPress</a>
+
+                                    </li>
+                                </ul>
+
+                            </li>
+                            <li class="has-dropdown mobile-display-subnav">
+                                <a href="" class="mobileNavItem">>></a>
+                                <ul class="dropdown">
+                                    <li class="has-dropdown">
+                                        <a href="http://coxmedia.review.def6.com/products-and-services/on-air.aspx" class="desktopNav">On Air</a>
+                                        <ul class="dropdown">
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/commercials.aspx" class="desktopNav">Commercials</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/express-link.aspx" class="desktopNav">Express Link</a>
+
+                                            </li>
+                                            <li class="has-dropdown">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/networks.aspx" class="desktopNav">Networks</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/sports-programming.aspx" class="desktopNav">Sports Programming</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/political-advertising.aspx" class="desktopNav">Political Advertising</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/video-production.aspx" class="desktopNav">Video Production</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="has-dropdown mobile-display-subnav">
+                                        <a href="" class="mobileNavItem">>></a>
+                                        <ul class="dropdown">
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/commercials.aspx" class="desktopNav">Commercials</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/express-link.aspx" class="desktopNav">Express Link</a>
+
+                                            </li>
+                                            <li class="has-dropdown">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/networks.aspx" class="desktopNav">Networks</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/sports-programming.aspx" class="desktopNav">Sports Programming</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/political-advertising.aspx" class="desktopNav">Political Advertising</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/on-air/video-production.aspx" class="desktopNav">Video Production</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="has-dropdown">
+                                        <a href="http://coxmedia.review.def6.com/products-and-services/online.aspx" class="desktopNav">Online</a>
+                                        <ul class="dropdown">
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/online/coxcom.aspx" class="desktopNav">Cox.com</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/online/cox-digital-ad-network-solutions.aspx" class="desktopNav">Cox Digital Ad Network Solutions</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/online/online-video.aspx" class="desktopNav">Online Video</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="has-dropdown mobile-display-subnav">
+                                        <a href="" class="mobileNavItem">>></a>
+                                        <ul class="dropdown">
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/online/coxcom.aspx" class="desktopNav">Cox.com</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/online/cox-digital-ad-network-solutions.aspx" class="desktopNav">Cox Digital Ad Network Solutions</a>
+
+                                            </li>
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/products-and-services/online/online-video.aspx" class="desktopNav">Online Video</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/products-and-services/on-the-go.aspx" class="desktopNav">On-the-Go</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/products-and-services/full-service-production.aspx" class="desktopNav">Full Service Production</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/products-and-services/research-analytics.aspx" class="desktopNav">Research &amp; Analytics</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/products-and-services/spotxpress.aspx" class="desktopNav">SpotXPress</a>
+
+                                    </li>
+                                </ul>
+
+                            </li>
+                            <li class="has-dropdown">
+                                <a href="http://coxmedia.review.def6.com/markets.aspx" class="desktopNav">Markets</a>
+                                <ul class="dropdown">
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/multi-market-advertising.aspx" class="desktopNav">Multi-Market Advertising</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ar-ftsmith-fayetteville.aspx" class="desktopNav">AR - Ft.Smith-Fayetteville</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/az-phoenix.aspx" class="desktopNav">AZ - Phoenix</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/az-tucson.aspx" class="desktopNav">AZ - Tucson</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ca-san-diego.aspx" class="desktopNav">CA - San Diego</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ca-santa-barbara.aspx" class="desktopNav">CA - Santa Barbara</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ct-hartford.aspx" class="desktopNav">CT - Hartford</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/fl-gainesville-ocala.aspx" class="desktopNav">FL - Gainesville - Ocala</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/fl-mobile-pensacola-ftwalton.aspx" class="desktopNav">FL - Mobile-Pensacola-Ft.Walton</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ks-topeka.aspx" class="desktopNav">KS - Topeka</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ks-wichita-hutchinson.aspx" class="desktopNav">KS - Wichita-Hutchinson</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/la-baton-rouge.aspx" class="desktopNav">LA - Baton Rouge</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/la-lafayette.aspx" class="desktopNav">LA - Lafayette</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/la-new-orleans.aspx" class="desktopNav">LA - New Orleans</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ne-omaha.aspx" class="desktopNav">NE - Omaha</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/nv-las-vegas.aspx" class="desktopNav">NV - Las Vegas</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ok-oklahoma-city.aspx" class="desktopNav">OK - Oklahoma City</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ok-tulsa.aspx" class="desktopNav">OK - Tulsa</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ri-providence.aspx" class="desktopNav">RI - Providence</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/va-hampton-roads.aspx" class="desktopNav">VA - Hampton Roads</a>
+
+                                    </li>
+                                    <li class="has-dropdown">
+                                        <a class="desktopNav">Georgia</a>
+                                        <ul class="dropdown">
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/markets/georgia/ga-macon.aspx" class="desktopNav">GA - Macon</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="has-dropdown mobile-display-subnav">
+                                        <a href="" class="mobileNavItem">>></a>
+                                        <ul class="dropdown">
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/markets/georgia/ga-macon.aspx" class="desktopNav">GA - Macon</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                </ul>
+
+                            </li>
+                            <li class="has-dropdown mobile-display-subnav">
+                                <a href="" class="mobileNavItem">>></a>
+                                <ul class="dropdown">
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/multi-market-advertising.aspx" class="desktopNav">Multi-Market Advertising</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ar-ftsmith-fayetteville.aspx" class="desktopNav">AR - Ft.Smith-Fayetteville</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/az-phoenix.aspx" class="desktopNav">AZ - Phoenix</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/az-tucson.aspx" class="desktopNav">AZ - Tucson</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ca-san-diego.aspx" class="desktopNav">CA - San Diego</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ca-santa-barbara.aspx" class="desktopNav">CA - Santa Barbara</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ct-hartford.aspx" class="desktopNav">CT - Hartford</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/fl-gainesville-ocala.aspx" class="desktopNav">FL - Gainesville - Ocala</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/fl-mobile-pensacola-ftwalton.aspx" class="desktopNav">FL - Mobile-Pensacola-Ft.Walton</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ks-topeka.aspx" class="desktopNav">KS - Topeka</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ks-wichita-hutchinson.aspx" class="desktopNav">KS - Wichita-Hutchinson</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/la-baton-rouge.aspx" class="desktopNav">LA - Baton Rouge</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/la-lafayette.aspx" class="desktopNav">LA - Lafayette</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/la-new-orleans.aspx" class="desktopNav">LA - New Orleans</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ne-omaha.aspx" class="desktopNav">NE - Omaha</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/nv-las-vegas.aspx" class="desktopNav">NV - Las Vegas</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ok-oklahoma-city.aspx" class="desktopNav">OK - Oklahoma City</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ok-tulsa.aspx" class="desktopNav">OK - Tulsa</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/ri-providence.aspx" class="desktopNav">RI - Providence</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/markets/va-hampton-roads.aspx" class="desktopNav">VA - Hampton Roads</a>
+
+                                    </li>
+                                    <li class="has-dropdown">
+                                        <a class="desktopNav">Georgia</a>
+                                        <ul class="dropdown">
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/markets/georgia/ga-macon.aspx" class="desktopNav">GA - Macon</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                    <li class="has-dropdown mobile-display-subnav">
+                                        <a href="" class="mobileNavItem">>></a>
+                                        <ul class="dropdown">
+                                            <li class="">
+                                                <a href="http://coxmedia.review.def6.com/markets/georgia/ga-macon.aspx" class="desktopNav">GA - Macon</a>
+
+                                            </li>
+                                        </ul>
+
+                                    </li>
+                                </ul>
+
+                            </li>
+                            <li class="has-dropdown">
+                                <a href="http://coxmedia.review.def6.com/fyi.aspx" class="desktopNav">FYI</a>
+                                <ul class="dropdown">
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/fyi/our-story.aspx" class="desktopNav">Our Story</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/fyi/marketing-library.aspx" class="desktopNav">Marketing Library</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/fyi/client-resources.aspx" class="desktopNav">Client Resources</a>
+
+                                    </li>
+                                </ul>
+
+                            </li>
+                            <li class="has-dropdown mobile-display-subnav">
+                                <a href="" class="mobileNavItem">>></a>
+                                <ul class="dropdown">
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/fyi/our-story.aspx" class="desktopNav">Our Story</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/fyi/marketing-library.aspx" class="desktopNav">Marketing Library</a>
+
+                                    </li>
+                                    <li class="">
+                                        <a href="http://coxmedia.review.def6.com/fyi/client-resources.aspx" class="desktopNav">Client Resources</a>
+
+                                    </li>
+                                </ul>
+
+                            </li>
+                            <li class="not-click">
+                                <a href="http://coxmedia.review.def6.com/contact-us.aspx" class="desktopNav">Contact Us</a>
+
+                            </li>
+                        </ul>
+                    </section>
+                </nav>
+            </div>
+        </div>
+    </header>
+    <span class="header-shadow"></span>
+</div>
+<!-- </div> -->
+
+<!-- [if lte IE 8]> 
+    <img src="images/error_message.jpg" style="text-align: center; margin: 0 auto;">
+<![endif] -->
+
+        <div class="section" id="section1">
+            <div class="quest" align="center">
+                <div class="question1">
+                    <h4>I NEED TO REACH POTENTIAL  <br>
+                    NEW CUSTOMERS.</h4>
+                    <h3>CAN YOU HELP
+                    <br> ME TARGET MY
+                    <br> MESSAGE & BUY?</h3>
+                            
+                </div>
+                <div class="answer1">
+                    <h5>ANSWER:</h5>
+                    <br>
+                    <p>Cox Media will help you target by market and even mile radius. We also help find new customers with online behavioral data that helps identify interests, behaviors and lifestyle</p>
+                           
+                </div>
+            </div>
+        </div>
+        <div class="section" id="section2">
+            <div class="quest" align="center">
+                <div class="question1">
+                    <h4>I NEED TO REACH POTENTIAL  <br>
+                    NEW CUSTOMERS.</h4>
+                    <h3>CAN YOU HELP
+                    <br> ME TARGET MY
+                    <br> MESSAGE & BUY?</h3>
+                            
+                </div>
+                <div class="answer1">
+                    <h5>ANSWER:</h5>
+                    <br>
+                    <p>Cox Media will help you target by market and even mile radius. We also help find new customers with online behavioral data that helps identify interests, behaviors and lifestyle</p>
+                           
+                </div>
+            </div>
+        </div>
+        <div class="section" id="section3">
+            
+            <div class="quest" align="center">
+                <div class="question1">
+                    <h4>I NEED TO REACH POTENTIAL  <br>
+                    NEW CUSTOMERS.</h4>
+                    <h3>CAN YOU HELP
+                    <br> ME TARGET MY
+                    <br> MESSAGE & BUY?</h3>
+                            
+                </div>
+                <div class="answer1">
+                    <h5>ANSWER:</h5>
+                    <br>
+                    <p>Cox Media will help you target by market and even mile radius. We also help find new customers with online behavioral data that helps identify interests, behaviors and lifestyle</p>
+                           
+                </div>
+            </div>
+        </div>
+<div class="section" id="section4">
+            <div class="sectionCopy">
+                <h2>COX MEDIA HELPS YOU WIN</h2>
+                <p>At Cox Media we believe partnership is the heart of the matter. We strive to create the smartest suite of products <br>
+and services to help you connect with customers in ways that are meaningful and effective.</p>
+            </div>
+    <div class="imageTag">
+            <img class="peopleImg" src="images/people.png">
+            <br>
+            <br>
+
+        <a href="" class="tagLine"><h3>LEARN MORE ABOUT OUR <span style="color: #3779bb;">PRODUCTS AND SERVICES</span><img class="bluearrow"  src="images/arrownewBlue.png" alt=""></h3></a> 
+    </div>
+    <div class="networks">
+        <img class="ae" src="images/ae.png">
+        <img class="bio" src="images/bio.png">
+        <img class="cnbc" src="images/cnbc.png">
+        <img class="disney" src="images/disneyXD.png">
+        <img class="amc" src="images/amc.png">
+        <img class="bravo" src="images/bravo.png">
+        <img class="cc" src="images/cc.png">
+        <img class="diy" src="images/diy.png">
+        <img class="bet" src="images/bet.png">
+        <img class="cartoon" src="images/cartoon.png">
+        <img class="discovery" src="images/discovery.png">
+        <img class="e" src="images/e.jpg">
+
+
+
+    </div>
+
+</div>
+        <div class="section" id="section5">
+            <div class="fiveTv five">
+                <img class="image" src="images/TVnew.png">
+                <a href=""> <h2>ON AIR <span style="color: #fff;">OPPORTUNITIES</span><img  src="images/arrow_new.png" alt="" class="arrow1"></h2></a>
+            </div>
+            <div class="fiveLaptop five">
+                <img class="image" src="images/laptopnew.png">
+                <a href=""> <h2>ONLINE <span style="color: #fff;">SOLUTIONS</span><img  src="images/arrow_new.png" alt="" class="arrow1"></h2></a>
+            </div>
+            <div class="fiveiPhone five">
+                <img class="image" src="images/iPhonenew.png">
+                <br>
+                <a href=""> <h2>ON-THE-GO <span style="color: #fff;">OPTIONS</span><img  src="images/arrow_new.png" alt="" class="arrow1"></h2></a>
+            </div>
+            <div class="fiveAnalytics five">
+                <img class="image" src="images/graphnew.png">
+                <a href=""> <h2>REALTIME<span style="color: #fff;">ANALYTICS</span><img  src="images/arrow_new.png" alt="" class="arrow1"></h2></a>
+            </div>
+            <div class="fiveCreative five">
+                <img class="image" src="images/creativenew.png">
+                <a href=""> <h2>CREATIVE<span style="color: #fff;">SERVICES</span><img  src="images/arrow_new.png" alt="" class="arrow1"></h2></a>
+            </div>
+            <div class="fiveMarketing five">
+                <img class="image" src="images/marketingnew.png">
+                <a href=""> <h2>TARGET<span style="color: #fff;">MARKETING</span><img  src="images/arrow_new.png" alt="" class="arrow1"></h2></a>
+            </div>
+
+            <div class="fiveText">
+                <h3>STAY RELEVANT</h3>
+                <p>Consumers are in constant motion, so placing your <br>
+                message with the shows and events your customers <br>
+                crave on the screens and platforms they trust is no <br>easy trick. Lean on us. Cox Media provides real-time <br>data and support to keep your message <br>primetime all the time.</p>
+            </div>
+
+        </div>
+        <div class="section" id="section6">
+            <div class="topSec">
+                
+            
+                <h3>WE'RE IN THE <br>
+                    PEACE-OF-MIND <br>
+                    BUSINESS
+                </h3>
+
+                <h4>
+                    Every day we help you develop successful <br>
+                    multi-platform advertising solutions that reach a <br>
+                    highly targeted audience with proven results. Sounds
+                    <br>
+                    simple enough, but because today's media landscape <br>
+                    is anything but, we work with your unique business <br>
+                    and budget to define the right strategy for you.
+                </h4>
+
+              <a href=""> <h2>WE'RE HERE FOR YOU <span style="color: #fff;">LET'S GET STARTED</span><img  src="images/arrow_new.png" alt=""></h2></a>
+             </div>
+<br>
+             <div class="botSec">
+                <a href="" > <h3 style="    border-right: 2px solid hsla(0,0%,100%,0.5);">BROWSE CLIENT <br> SUCCESS STORIES</h3></a>
+                <a href=""> <h3 style="    border-right: 2px solid hsla(0,0%,100%,0.5);
+"> DISCOVER<br> INSIGHTS</h3></a>
+                <a href=""><h3> EXPLORE YOUR <br>MARKETPLACE</h3></a>
+             </div>
+        </div>
+        
+
+
+   
+        <!-- END HOME PAGE CONTENT -->
+    
+   
+    <!--<script type="text/javascript">
+          (function () { var ticker = document.createElement('script'); ticker.type = 'text/javascript'; ticker.async = true; ticker.src = '//twitcker.com/ticker/cox_media.js?open=true&speed=1&background=ffffff&tweet=ffffff&container=own-container&own-container=ticker&hide-logo=true'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ticker); })();
+      </script>
+      <div class="row" style="z-index=999">
+        <div class="small-12 columns" id="ticker"></div>
+      </div>-->
+
+<div class="section  fp-auto-height" id="section7">
+    <div class="footer-shadow"></div>
+    <footer class="site-footer" role="contentinfo">
+        <div class="row">
+            <div class="small-12 no-padding">
+                <p>
+
+                    <a href="http://coxmedia.review.def6.com/about-us.aspx">About Us</a>
+                    •                        <a href="http://coxmedia.review.def6.com/contact-us.aspx">Contact Us</a>
+                    •                        <a href="http://ww2.cox.com/residential/home.cox" target="_blank">Cox Communications</a>
+                    •                        <a href="http://www.coxenterprises.com/ " target="_blank">Cox Enterprises</a>
+                    <br />
+                    <a href="http://spotxpress.coxmedia.com/spotxpress/" target="_blank">SpotXPress</a>
+                    •                        <a href="http://coxmedia-dmk.review.def6.com/" target="_blank">Media Kit</a>
+                    •                        <a href="http://ww2.cox.com/aboutus/careers.cox " target="_blank">Careers</a>
+                    •                        <a href="http://ww2.cox.com/aboutus/arizona/policies/your-privacy-rights.cox " target="_blank">Privacy</a>
+                    •                        <a href="http://ww2.cox.com/aboutus/diversity.cox " target="_blank">Diversity</a>
+                    <br />
+                    <p>&nbsp;</p>
+                    <p style="text-transform: uppercase;">2015 &nbsp;All Rights Reserved, Cox Media, LLC&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;6205-B.17 Peachtree Dunwoody Road Atlanta, GA 30328&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;1-855-755-2691</p>
+                </p>
+            </div>
+        </div>
+    </footer>
+
+	<div id="videoModal" class="videoModal reveal-modal large">
+        <p>Gallery | <strong class="white">Display</strong></p>
+        <div class="loaded-carousel">
+            <ul class="slides"></ul>
+        </div>
+        <a class="close-reveal-modal"><span>Close</span> <em>×</em></a>
+    </div>
+</div> <!-- section7 end -->
+</div>  <!-- full page end -->
+
+</body>
+</html>

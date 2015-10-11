@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_s>
+    <image>
+      <originalFileName>success_stories.JPG</originalFileName>
+      <size>11879</size>
+      <dateLastModified>Thu, 23 Jan 2014 21:11:03 GMT</dateLastModified>
+      <width>281</width>
+      <height>91</height>
+      <cachedImage>
+        <fileName>SUC_17ed1be2144c3ea7f06d794bf3db49fc37c9adf07e700a8e3e5ebc245b0bdc45.jpeg</fileName>
+        <dateCreated>Thu, 23 Jan 2014 21:28:39 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>304</width>
+        <height>98</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>SUC_94fcee3a2d5c7fcaeb69802d61054846b46cebdc0d5b4a5e58416e75af8bd562.jpeg</fileName>
+        <dateCreated>Thu, 23 Jan 2014 21:35:36 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>306</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_s>
+</imageIndex>

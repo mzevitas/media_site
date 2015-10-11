@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_h>
+    <image>
+      <originalFileName>headset.JPG</originalFileName>
+      <size>13861</size>
+      <dateLastModified>Thu, 23 Jan 2014 21:21:38 GMT</dateLastModified>
+      <width>368</width>
+      <height>122</height>
+      <cachedImage>
+        <fileName>HEA_9363f1467d5e064c1576e6033241b9b74f829ff3493797e64ae3000f8bb6b8f1.jpeg</fileName>
+        <dateCreated>Thu, 23 Jan 2014 22:05:56 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>302</width>
+        <height>100</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>HEA_a57fd2b0c2d66bc13f7d8a44d20bd8cef7bdabf42559f9d707077b871302ccc9.jpeg</fileName>
+        <dateCreated>Mon, 27 Jan 2014 21:35:32 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>299</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_h>
+</imageIndex>

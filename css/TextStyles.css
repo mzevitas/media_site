@@ -1,0 +1,72 @@
+.header_1em_Black 
+{
+color: #3d383c;
+font-family: FrutigerBold,"Helvetica Neue Bold",Helvetica,Arial,"Lucida Grande",sans-serif;
+display: block;
+padding: 10px 0;
+font-size: 1em;
+line-height: 1.4em;
+text-transform: uppercase;
+}
+
+.header_1_2em_LightBlue 
+{
+font-family: FrutigerBold,"Helvetica Neue Bold",Helvetica,Arial,"Lucida Grande",sans-serif;
+font-size: 1.28571428571em;
+line-height: 1.2em;
+margin-top: 0;
+margin-bottom: .55555em;
+color: #00b9dd;
+text-transform: uppercase; 
+}
+
+.reference
+{
+font-family: FrutigerBold,"Helvetica Neue Bold",Helvetica,Arial,"Lucida Grande",sans-serif;
+vertical-align: super;
+font-size: small;
+text-decoration: none;
+}
+
+.footnote
+{
+font-family: FrutigerBold,"Helvetica Neue Bold",Helvetica,Arial,"Lucida Grande",sans-serif;
+vertical-align: super;
+text-decoration: none;
+}
+
+.cox-bullets {
+    margin-left: 30px !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
+.header_1em_Black {
+color: #3d383c; font-family: FrutigerBold,"Helvetica Neue Bold",Helvetica,Arial,"Lucida Grande",sans-serif; display: block; padding: 10px 0; font-size: 1em; line-height: 1.4em; text-transform: uppercase; 
+}
+
+.header_1_2em_LightBlue {
+font-family: FrutigerBold,"Helvetica Neue Bold",Helvetica,Arial,"Lucida Grande",sans-serif; font-size: 1.28571428571em; line-height: 1.2em; margin-top: 0; margin-bottom: .55555em; color: #00b9dd; text-transform: uppercase; 
+}
+
+.reference {
+font-family: FrutigerBold,"Helvetica Neue Bold",Helvetica,Arial,"Lucida Grande",sans-serif; vertical-align: super; font-size: small; text-decoration: none;
+}
+
+.footnote {
+font-family: FrutigerBold,"Helvetica Neue Bold",Helvetica,Arial,"Lucida Grande",sans-serif; vertical-align: super; text-decoration: none;
+}
+
+.cox-bullets {
+margin-left: 30px !important; 
+}
+

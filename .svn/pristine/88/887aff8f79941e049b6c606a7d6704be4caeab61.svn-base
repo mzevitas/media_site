@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_C>
+    <image>
+      <originalFileName>Contac_Hmpage.png</originalFileName>
+      <size>129437</size>
+      <dateLastModified>Thu, 27 Mar 2014 14:52:00 GMT</dateLastModified>
+      <width>411</width>
+      <height>188</height>
+      <cachedImage>
+        <fileName>CON_318910aec8606d78ad5d5b94ad1e0e50d201ce3c34b4bf198a85935453e27d02.png</fileName>
+        <dateCreated>Thu, 27 Mar 2014 14:56:03 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>407</width>
+        <height>186</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_C>
+</imageIndex>

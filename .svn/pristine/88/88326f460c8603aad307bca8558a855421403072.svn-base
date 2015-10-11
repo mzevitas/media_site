@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_g>
+    <image>
+      <originalFileName>gallery.jpg</originalFileName>
+      <size>97243</size>
+      <dateLastModified>Wed, 09 Apr 2014 20:22:02 GMT</dateLastModified>
+      <width>306</width>
+      <height>204</height>
+      <cachedImage>
+        <fileName>GAL_f43d97106588341ec212cbc851711accb288690e73bade064b042ca3812d226b.jpeg</fileName>
+        <dateCreated>Wed, 09 Apr 2014 20:22:07 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>148</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_g>
+</imageIndex>

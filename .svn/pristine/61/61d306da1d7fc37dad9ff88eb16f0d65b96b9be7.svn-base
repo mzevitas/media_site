@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_A>
+    <image>
+      <originalFileName>Adv_w_us.png</originalFileName>
+      <size>91120</size>
+      <dateLastModified>Thu, 20 Mar 2014 17:25:34 GMT</dateLastModified>
+      <width>306</width>
+      <height>204</height>
+      <cachedImage>
+        <fileName>ADV_f76228910677fc2f86393636fbe615aab634a9e01330f623e59160545c9be4d5.png</fileName>
+        <dateCreated>Thu, 20 Mar 2014 17:26:13 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>407</width>
+        <height>271</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_A>
+</imageIndex>

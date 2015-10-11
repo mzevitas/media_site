@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<!--[if IE 8]>               <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Cox Media</title>
+
+  <link rel="stylesheet" href="styles/foundation.css">
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <script data-main="scripts/seven" src="scripts/libs/require.js"></script>
+
+</head>
+<body id="page" class="off-canvas hide-extras interior">
+  <div class="container">
+    <div class="hide-for-small blue-top">
+      <div class="row">
+        <div class="large-5 large-offset-7 header-form">
+            <form class="custom">
+              <div class="small-7 columns">
+                  <label for="customDropdown1">Change Your Market</label>
+              </div>
+              <div class="small-5 columns">
+                  <select class="selectnav" id="selectnav1">
+                    <option>Macon, Ga</option>
+                    <option>Shreveport, LA</option>
+                    <option>Greenville, SC</option>
+                    <option>Charleston, SC</option>
+                  </select>
+              </div>
+            </form>
+          </div>
+      </div>
+    </div>
+    <header id="header">
+        <div class="row">
+            <div class="small-12">
+              <nav class="top-bar" style="">
+                  <ul class="title-area">
+                      <li class="name hide-for-small"><a href="/" class="logo"><img src="images/cox-logo.png"></a></li>
+                      <li class="toggle-topbar menu-icon"><a href=""><span></span></a></li>
+                      <li class="name show-for-small"><a href="/" class="logo"><img src="images/cox-logo.png"></a></li>
+                  </ul>
+                  <section class="top-bar-section">
+                      <ul>
+                          <li class="has-dropdown"><a href="#">Advertise With Us</a>
+                              <ul class="dropdown">
+                                  <li class="has-dropdown"><a href="#">Local Businesses</a>
+                                      <ul class="dropdown">
+                                          <li><a href="#">Why Cox Media?</a></li>
+                                          <li><a href="#">Services for Businesses</a></li>
+                                      </ul>
+                                  </li>
+                                  <li class="has-dropdown"><a href="#">For Agencies</a>
+                                      <ul class="dropdown">
+                                          <li><a href="#">Why Cox Media?</a></li>
+                                          <li><a href="#">Services for Agencies</a></li>
+                                      </ul>
+                                  </li>
+                                  <li class=""><a href="#">Multi-Market Advertising</a></li>
+                                  <li class=""><a href="#">Success Stories</a></li>
+                                  <li class=""><a href="#">Creative Gallery</a></li>
+                              </ul>
+                          </li>      
+                        <li class="has-dropdown"><a href="#">Products &amp; Services</a>
+                            <ul class="dropdown">
+                                <li><a href="#">On-air</a></li>
+                                <li><a href="#">Online</a></li>
+                                <li><a href="#">On-the-Go</a></li>
+                                <li><a href="#">Research Marketing</a></li>
+                                <li><a href="#">Full Service Production</a></li>
+                            </ul>
+                        </li>                    
+                        <li class="has-dropdown"><a href="#">Markets</a>
+                            <ul class="dropdown">
+                              <li><a href="#">Phoenix, AZ</a></li>
+                              <li><a href="#">Tuscon, AZ</a></li>
+                              <li><a href="#">San Diego, CA</a></li>
+                              <li><a href="#">Santa Barbara, CA</a></li>
+                              <li><a href="#">Hartford, CT</a></li>
+                              <li><a href="#">Gainsville-Ocala, FL</a></li>
+                              <li><a href="#">Mobile-Pensacola-Ft. Walton, FL</a></li>
+                              <li><a href="#">Macon, GA</a></li>
+                              <li><a href="#">Topeka, KS</a></li>
+                              <li><a href="#">Baton Rouge, LA</a></li>
+                              <li><a href="#">Lafayette, LA</a></li>
+                              <li><a href="#">New Orleans, LA</a></li>
+                              <li><a href="#">Omaha, NV</a></li>
+                              <li><a href="#">Las Vegas, NV</a></li>
+                              <li><a href="#">Oklahoma City, OK</a></li>
+                              <li><a href="#">Tulsa, OK</a></li>
+                              <li><a href="#">Providence, RI</a></li>
+                              <li><a href="#">Hampton Road (Norfolk DMA), VA</a></li>
+                              <li><a href="#">Multi-Market Advertising</a></li>
+                              <li><a href="#">Market Detail</a></li>  
+                            </ul>
+                        </li>
+                        <li class="has-dropdown"><a href="#">Toolkit</a>
+                            <ul class="dropdown">
+                                <li><a href="#">Glossary</a></li>              
+                                <li><a href="#">Articles &amp; White Papers</a></li>
+                                <li><a href="#">Document Library</a></li>
+                                <li><a href="#">Media Kit</a></li>
+                                <li><a href="#">SpotXPress</a></li>
+                            </ul>
+                        </li>
+                        <li class="not-click"><a href="#">Contact Us</a></li>
+                    </ul>
+                </section>
+              </nav>
+              <form class="custom show-for-small">
+                  <label for="customDropdown1">Change Your Market</label>
+                  <select class="selectnav" id="selectnav1">
+                      <option>Macon, Ga</option>
+                      <option>Shreveport, LA</option>
+                      <option>Greenville, SC</option>
+                      <option>Charleston, SC</option>
+                  </select>
+              </form>
+          </div>
+      </div>
+    </header>
+	    <span class="header-shadow"></span>
+		<div class="main-row">
+	  		<section role="main">
+	  			<div class="row">
+				  	<div class="small-12 large-9 columns">
+					  	<div class="small-12 padding-t30">
+							<ul class="breadcrumbs">
+								<li><a href="#">Cox Media Solutions</a></li>
+								<li><a href="#" class="current">Cox.com</a></li>
+					  		</ul>
+					  	</div>
+					  	<div class="small-12">
+						  	<h1>Cox.com</h1>
+						</div>
+						
+						<div class="small-12">
+							<video id="my_video_1" style="width:100%; height:100%" controls="controls" width="100%" height="100%" preload="auto" poster="/media/video-image.jpg" preload="none">
+							    <!-- MP4 for Safari, IE9, iPhone, iPad, Android, and Windows Phone 7 -->
+							    <source type="video/mp4" src="/media/video.mp4">
+							    <!-- WebM/VP8 for Firefox4, Opera, and Chrome -->
+							    <source type="video/webm" src="/media/video.webm">
+							    <!-- Ogg/Vorbis for older Firefox and Opera versions -->
+							    <source type="video/ogg" src="/media/video.ogv">
+							    <!-- Optional: Add subtitles for each language -->
+							    <track kind="subtitles" src="/media/video.srt" srclang="en">
+							    <!-- Optional: Add chapters -->
+							    <track kind="chapters" src="/media/video.srt" srclang="en"> 
+							    <!-- Flash fallback for non-HTML5 browsers without JavaScript -->
+							    <object width="320" height="240" type="application/x-shockwave-flash" data="flashmediaelement.swf">
+							        <param name="movie" value="flashmediaelement.swf">
+							        <param name="flashvars" value="controls=true&file=video.mp4">
+							        <!-- Image as a last resort -->
+							        <img src="/media/video-image.jpg" width="320" height="240" title="No video playback capabilities">
+							    </object>
+							</video>
+						</div>
+						<div class="small-12">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non lorem sit amet ligula aliquam porttitor nec in risus. Aenean gravida mattis aliquet. Nunc augue sem, semper varius iaculis a, egestas sed quam. Suspendisse sit amet felis vitae lectus venenatis cursus sit amet quis arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec nisl tellus, interdum ut sodales eu, laoreet nec lorem. Proin et hendrerit risus. In tempor magna nec nisi pellentesque, non laoreet sollicitudin.</p>
+
+							<p>Etiam volutpat ornare nulla quis volutpat. Nunc eu magna ultricies, lacinia nisi eu, tempor leo. Integer molestie metus felis, porta lobortis sapien lobortis eget. Pellentesque mattis urna id arcu porttitor hendrerit. Curabitur vitae libero vitae diam hendrerit volutpat at ac nisl. Nam iaculis ipsum eget enim tempor interdum. Nulla eget euismod lorem. Proin tempus nulla sit amet adipiscing egestas. Integer non nisl in lacus egestas viverra. Nam non libero egestas, tristique arcu a, sodales lorem. Pellentesque lobortis arcu quis magna porttitor viverra. </p>
+						</div>
+						<div class="small-12">
+						  	<h2>Advertising Solutions</h2>
+						  	<h3 class="light-blue">On Air</h3>
+						  	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non lorem sit amet ligula aliquam porttitor nec in risus. Aenean gravida mattis aliquet. Nunc augue sem, semper varius iaculis a, egestas sed quam. Suspendisse sit amet felis vitae lectus venenatis cursus sit amet quis arcu.</p>
+						  	<a href="#" class="cta">View Gallery</a>
+
+							<h3 class="light-blue">Display</h3>
+						  	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non lorem sit amet ligula aliquam porttitor nec in risus. Aenean gravida mattis aliquet. Nunc augue sem, semper varius iaculis a, egestas sed quam. Suspendisse sit amet felis vitae lectus venenatis cursus sit amet quis arcu.</p>
+						  	<a href="#" class="cta">View Gallery</a>
+
+							<h3 class="light-blue">In-Banner</h3>
+						  	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non lorem sit amet ligula aliquam porttitor nec in risus. Aenean gravida mattis aliquet. Nunc augue sem, semper varius iaculis a, egestas sed quam. Suspendisse sit amet felis vitae lectus venenatis cursus sit amet quis arcu.</p>
+						  	<a href="#" class="cta">View Gallery</a>
+
+						  	<h3 class="light-blue">Video Pre-Roll</h3>
+						  	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non lorem sit amet ligula aliquam porttitor nec in risus. Aenean gravida mattis aliquet. Nunc augue sem, semper varius iaculis a, egestas sed quam. Suspendisse sit amet felis vitae lectus venenatis cursus sit amet quis arcu.</p>
+						  	<a href="#" class="cta">View Gallery</a>
+
+							<h3 class="light-blue">Site Takeovers</h3>
+						  	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non lorem sit amet ligula aliquam porttitor nec in risus. Aenean gravida mattis aliquet. Nunc augue sem, semper varius iaculis a, egestas sed quam. Suspendisse sit amet felis vitae lectus venenatis cursus sit amet quis arcu.</p>
+						  	<a href="#" class="cta">View Gallery</a>
+
+						  	<h3 class="light-blue">High Impact Opps</h3>
+						  	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce non lorem sit amet ligula aliquam porttitor nec in risus. Aenean gravida mattis aliquet. Nunc augue sem, semper varius iaculis a, egestas sed quam. Suspendisse sit amet felis vitae lectus venenatis cursus sit amet quis arcu.</p>
+						  	<a href="#" class="cta">View Gallery</a>
+						</div>
+					</div>
+					<div class="small-12 large-3 columns right-col">
+						<div class="full-col light-gray-bg">
+							<div class="small-12 text-center">
+								<h2><span class="pink">Media</span> Kit</h2>
+								<img class="sol-toolkit" src="images/media-kit.png">
+								<p class="margin-t20">Download a PDF <br>of the full Media Kit</p>
+								<a href="#" class="cta black margin-center"><em>Download</em><img class="black-bg" src="images/download.png"></a>
+							</div>
+							<div class="small-12 text-left contact-us">
+									<div class="small-12 text-center">
+										<h3 class="white">Get Started</h3>
+										<div id="form-error" class="text-left"></div>
+									</div>
+									<form data-validate="parsley" class="custom contact-form" id="contact-form">
+									    <div class="small-12">
+									       	<label>First Name*</label>
+									       	<input type="text" placeholder="First Name" data-required="true" data-error-container="#form-error" data-error-message="Your First Name is Required">
+									   	</div>
+									   	<div class="small-12">
+									       	<label>Last Name*</label>
+								        	<input type="text" placeholder="Last Name" data-required="true" data-error-container="#form-error" data-error-message="Your Last Name is Required">
+								      	</div>
+								      	<div class="small-12">
+								        	<label>Email</label>
+								        	<input type="text" placeholder="Email" data-type="email" data-required="true" data-error-container="#form-error" data-error-message="Your Email is Required in an email format">
+								      	</div>
+								     	<div class="small-12">
+								        	<label>Phone</label>
+								        	<input type="text" placeholder="Phone" data-type="phone" data-required="true" data-error-container="#form-error" data-error-message="Your Phone Number is Required, (xxx)xxx-xxxx">
+								     	</div>
+								    	<div class="small-12">
+								        	<label>Company*</label>
+									      	<input type="text" placeholder="Company" data-required="true" data-error-container="#form-error" data-error-message="Your Company is Required">
+								      	</div>
+								      	<div class="row">
+									    	<div class="small-8 columns">
+									        	<label>City</label>
+									        	<input type="text" placeholder="City">
+									      	</div>
+									      	<div class="small-4 columns">
+									    		<label>State</label>
+									        	<select id="selectnav2" class="small selectnav">
+											        <option disabled="DISABLED">GA</option>
+											        <option>AL</option>
+											        <option>AR</option>
+											        <option>AK</option>
+										      	</select>
+									     	</div>
+									    </div>
+									    <div class="small-12">
+									       	<label>Market</label>
+										   	<p><strong class="white">Macon, GA</strong> (Change Market)</p>
+									       	<select id="selectnav3" class="large selectnav">
+										        <option>Television Campaigns</option>
+										        <option>Mobile Text Advertising</option>
+										        <option>Online Advertising</option>
+										        <option>AK</option>
+										    </select>
+									    </div>
+									   	<div class="small-12">
+					        				<textarea placeholder="Add a Brief Message"></textarea>
+								 		</div>
+								 		<div class="text-center clear pink-cta" id="demo-form-valid">
+								 			<a href="#!" onclick="$('#contact-form').parsley( 'validate' )" class="cta white margin-center margin-t20"><em>Submit</em><img src="images/cta.png"></a>
+										</div>
+									</form>
+								</div>
+							</div>
+				  		</div>
+				  	</div>
+				</section></div>
+			
+	  	</div>
+      <div class="footer-shadow"></div>
+      <footer class="site-footer" role="contentinfo">
+          <div class="row">
+            <div class="small-12 no-padding">
+              <p><a href="#">About Cox Media</a>•<a href="#">Cox Enterprises</a>•<a href="#">Cox</a><br><a href="#">Diversity</a>•<a href="#">Careers</a>•<a href="#">Glossary</a>•<a href="#">SpotXpress</a>•<a href="#">Media Kit</a><br><a href="#">Privacy</a>•<a href="#">Visitor Agreement</a>•<a href="#">Mobile Sweepstakes Rules</a></p>
+            </div>
+          </div>
+      </footer>
+  
+</body>
+</html>

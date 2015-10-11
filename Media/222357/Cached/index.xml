@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_C>
+    <image>
+      <originalFileName>Coxcom.jpg</originalFileName>
+      <size>104797</size>
+      <dateLastModified>Thu, 20 Mar 2014 17:58:57 GMT</dateLastModified>
+      <width>484</width>
+      <height>353</height>
+      <cachedImage>
+        <fileName>COX_406275ad016ae8484d45be1e7ffc2ad9b4499c94c63aa6eb349a493bc3f26113.jpeg</fileName>
+        <dateCreated>Thu, 20 Mar 2014 18:00:33 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>136</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_C>
+</imageIndex>

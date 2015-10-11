@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_t>
+    <image>
+      <originalFileName>threecol_image2.jpg</originalFileName>
+      <size>105559</size>
+      <dateLastModified>Wed, 23 Apr 2014 15:47:30 GMT</dateLastModified>
+      <width>724</width>
+      <height>454</height>
+      <cachedImage>
+        <fileName>THR_f7ac8e11fc7c5d7379f29b3ec36a683c4a4f5ec5b9ab744a610e8b14a52d30ce.jpeg</fileName>
+        <dateCreated>Wed, 23 Apr 2014 15:48:16 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>223</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_t>
+</imageIndex>

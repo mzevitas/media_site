@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_O>
+    <image>
+      <originalFileName>OnAir.png</originalFileName>
+      <size>77310</size>
+      <dateLastModified>Wed, 12 Mar 2014 12:41:21 GMT</dateLastModified>
+      <width>306</width>
+      <height>204</height>
+      <cachedImage>
+        <fileName>ONA_dad97e3a5fcfba2913b23440803998251df5c26e9403715505a22f7634c256e8.png</fileName>
+        <dateCreated>Wed, 12 Mar 2014 13:30:12 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>305</width>
+        <height>203</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_O>
+</imageIndex>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_a>
+    <image>
+      <originalFileName>about_us.JPG</originalFileName>
+      <size>13607</size>
+      <dateLastModified>Thu, 23 Jan 2014 21:11:05 GMT</dateLastModified>
+      <width>363</width>
+      <height>120</height>
+      <cachedImage>
+        <fileName>ABO_1755755ecb387c446ead0178d99b80fc68db41af8b4774a4629ab2aaef8d7df5.jpeg</fileName>
+        <dateCreated>Thu, 23 Jan 2014 22:04:32 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>302</width>
+        <height>100</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_a>
+</imageIndex>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_o>
+    <image>
+      <originalFileName>overview-right.jpg</originalFileName>
+      <size>11803</size>
+      <dateLastModified>Thu, 02 Jan 2014 20:52:29 GMT</dateLastModified>
+      <width>306</width>
+      <height>140</height>
+      <cachedImage>
+        <fileName>OVE_75d1fb5e35e1d1d41c38402e931838e5f0add66e970d6bbefdfa36d5fbedf7a0.jpeg</fileName>
+        <dateCreated>Thu, 06 Mar 2014 15:59:48 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>935</width>
+        <height>428</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>OVE_575b1b9454a56a0f370c96381bd23217cb01bd2748bf7c90d5b56c5c39fcd410.jpeg</fileName>
+        <dateCreated>Tue, 10 Jun 2014 14:52:03 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>216</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_o>
+</imageIndex>

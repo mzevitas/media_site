@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<!--[if IE 8]>               <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Cox Media</title>
+
+  <link rel="stylesheet" href="styles/foundation.css">
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <script data-main="scripts/main" src="scripts/libs/require.js"></script>
+
+</head>
+<body id="page" class="off-canvas hide-extras interior">
+  <div class="container">
+    <div class="hide-for-small blue-top">
+      <div class="row">
+        <div class="large-5 large-offset-7 header-form">
+            <form class="custom">
+              <div class="small-7 columns">
+                  <label for="customDropdown1">Change Your Market</label>
+              </div>
+              <div class="small-5 columns">
+                  <select class="selectnav" id="selectnav1">
+                    <option>Macon, Ga</option>
+                    <option>Shreveport, LA</option>
+                    <option>Greenville, SC</option>
+                    <option>Charleston, SC</option>
+                  </select>
+              </div>
+            </form>
+          </div>
+      </div>
+    </div>
+    <header id="header">
+        <div class="row">
+            <div class="small-12">
+              <nav class="top-bar" style="">
+                  <ul class="title-area">
+                      <li class="name hide-for-small"><a href="/" class="logo"><img src="images/cox-logo.png"></a></li>
+                      <li class="toggle-topbar menu-icon"><a href=""><span></span></a></li>
+                      <li class="name show-for-small"><a href="/" class="logo"><img src="images/cox-logo.png"></a></li>
+                  </ul>
+                  <section class="top-bar-section">
+                      <ul>
+                          <li class="has-dropdown"><a href="#">Advertise With Us</a>
+                              <ul class="dropdown">
+                                  <li class="has-dropdown"><a href="#">Local Businesses</a>
+                                      <ul class="dropdown">
+                                          <li><a href="#">Why Cox Media?</a></li>
+                                          <li><a href="#">Services for Businesses</a></li>
+                                      </ul>
+                                  </li>
+                                  <li class="has-dropdown"><a href="#">For Agencies</a>
+                                      <ul class="dropdown">
+                                          <li><a href="#">Why Cox Media?</a></li>
+                                          <li><a href="#">Services for Agencies</a></li>
+                                      </ul>
+                                  </li>
+                                  <li class=""><a href="#">Multi-Market Advertising</a></li>
+                                  <li class=""><a href="#">Success Stories</a></li>
+                                  <li class=""><a href="#">Creative Gallery</a></li>
+                              </ul>
+                          </li>      
+                        <li class="has-dropdown"><a href="#">Products &amp; Services</a>
+                            <ul class="dropdown">
+                                <li><a href="#">On-air</a></li>
+                                <li><a href="#">Online</a></li>
+                                <li><a href="#">On-the-Go</a></li>
+                                <li><a href="#">Research Marketing</a></li>
+                                <li><a href="#">Full Service Production</a></li>
+                            </ul>
+                        </li>                    
+                        <li class="has-dropdown"><a href="#">Markets</a>
+                            <ul class="dropdown">
+                              <li><a href="#">Phoenix, AZ</a></li>
+                              <li><a href="#">Tuscon, AZ</a></li>
+                              <li><a href="#">San Diego, CA</a></li>
+                              <li><a href="#">Santa Barbara, CA</a></li>
+                              <li><a href="#">Hartford, CT</a></li>
+                              <li><a href="#">Gainsville-Ocala, FL</a></li>
+                              <li><a href="#">Mobile-Pensacola-Ft. Walton, FL</a></li>
+                              <li><a href="#">Macon, GA</a></li>
+                              <li><a href="#">Topeka, KS</a></li>
+                              <li><a href="#">Baton Rouge, LA</a></li>
+                              <li><a href="#">Lafayette, LA</a></li>
+                              <li><a href="#">New Orleans, LA</a></li>
+                              <li><a href="#">Omaha, NV</a></li>
+                              <li><a href="#">Las Vegas, NV</a></li>
+                              <li><a href="#">Oklahoma City, OK</a></li>
+                              <li><a href="#">Tulsa, OK</a></li>
+                              <li><a href="#">Providence, RI</a></li>
+                              <li><a href="#">Hampton Road (Norfolk DMA), VA</a></li>
+                              <li><a href="#">Multi-Market Advertising</a></li>
+                              <li><a href="#">Market Detail</a></li>  
+                            </ul>
+                        </li>
+                        <li class="has-dropdown"><a href="#">Toolkit</a>
+                            <ul class="dropdown">
+                                <li><a href="#">Glossary</a></li>              
+                                <li><a href="#">Articles &amp; White Papers</a></li>
+                                <li><a href="#">Document Library</a></li>
+                                <li><a href="#">Media Kit</a></li>
+                                <li><a href="#">SpotXPress</a></li>
+                            </ul>
+                        </li>
+                        <li class="not-click"><a href="#">Contact Us</a></li>
+                    </ul>
+                </section>
+              </nav>
+              <form class="custom show-for-small">
+                  <label for="customDropdown1">Change Your Market</label>
+                  <select class="selectnav" id="selectnav1">
+                      <option>Macon, Ga</option>
+                      <option>Shreveport, LA</option>
+                      <option>Greenville, SC</option>
+                      <option>Charleston, SC</option>
+                  </select>
+              </form>
+          </div>
+      </div>
+    </header>
+	    <span class="header-shadow"></span>
+		<div class="main-row">
+	  		<section role="main">
+	  			<div class="row">
+	  				<div class="small-12 columns padding-t30">
+				  		<div class="small-12">
+				  			<h1>Markets</h1>
+				  		</div>
+						<div class="small-12 network-map">
+					  		<img src="images/us-map.jpg" alt="Map">	
+					  	</div>
+					 	<div class="row">
+						  	<div class="small-12 large-12 columns margin-t20">
+						  		<div class="templ-box market">
+						  			<div class="small-12">
+									  	<h2>Our Locations</h2>
+									  	<p>Click on the city below to learn more about that market.</p>
+								  	</div>
+								  	<div class="row">
+									  	<div class="small-12 large-3 columns">
+										  	<h3 class="light-blue">Arizona</h3>
+											<a href="#">phoenix</a>
+											<a href="#">tucson</a>
+
+											<h3 class="light-blue">ARKANSAS</h3>
+											<a href="#">Ft. smith - fayetteville</a>
+
+											<h3 class="light-blue">California</h3>
+											<a href="#">San Diego</a>
+											<a href="#">Santa Barbara</a>
+
+											<h3 class="light-blue">Connectitcut</h3>
+											<a href="#">Hartford</a>
+										</div>
+										<div class="small-12 large-3 columns">
+										  	<h3 class="light-blue">Florida</h3>
+											<a href="#">Gainesvill-Ocala</a>
+											<a href="#">Mobile - Pensacola - Ft. Walton</a>
+
+											<h3 class="light-blue">Georgia</h3>
+											<a href="#">Macon</a>
+
+											<h3 class="light-blue">Kansas</h3>
+											<a href="#">Topeka</a>
+
+											<h3 class="light-blue">Connectitcut</h3>
+											<a href="#">Hartford</a>
+										</div>
+										<div class="small-12 large-3 columns">
+										  	<h3 class="light-blue">Louisiana</h3>
+											<a href="#">Baton Rouge</a>
+											<a href="#">Lafayette</a>
+											<a href="#">New Orleans</a>
+
+											<h3 class="light-blue">Nebraska</h3>
+											<a href="#">Omaha</a>
+
+											<h3 class="light-blue">Nevada</h3>
+											<a href="#">Las Vegas</a>
+
+										</div>
+										<div class="small-12 large-3 columns">
+										  	<h3 class="light-blue">Oklahoma</h3>
+											<a href="#">Oklahoma City</a>
+											<a href="#">Tulsa</a>
+
+											<h3 class="light-blue">Rhode Island</h3>
+											<a href="#">Providence</a>
+
+											<h3 class="light-blue">Virginia</h3>
+											<a href="#">hampton Roads (norfolk DMA)</a>
+										</div>
+									</div>
+								</div>
+							</div>
+					  	</div>
+				  	</div>
+		  		</div>
+			</section>
+		</div>
+      <div class="footer-shadow"></div>
+      <footer class="site-footer" role="contentinfo">
+          <div class="row">
+            <div class="small-12 no-padding">
+              <p><a href="#">About Cox Media</a>•<a href="#">Cox Enterprises</a>•<a href="#">Cox</a><br><a href="#">Diversity</a>•<a href="#">Careers</a>•<a href="#">Glossary</a>•<a href="#">SpotXpress</a>•<a href="#">Media Kit</a><br><a href="#">Privacy</a>•<a href="#">Visitor Agreement</a>•<a href="#">Mobile Sweepstakes Rules</a></p>
+            </div>
+          </div>
+      </footer>
+  </div>
+</body>
+</html>

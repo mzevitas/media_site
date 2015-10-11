@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_W>
+    <image>
+      <originalFileName>Why_Cox_FPO.jpg</originalFileName>
+      <size>74878</size>
+      <dateLastModified>Mon, 07 Apr 2014 20:23:04 GMT</dateLastModified>
+      <width>612</width>
+      <height>280</height>
+      <cachedImage>
+        <fileName>WHY_30a61603e861094bef51441c001f0ef59d64d32293a38919a6fcd6ff444d0779.jpeg</fileName>
+        <dateCreated>Mon, 07 Apr 2014 20:23:47 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>216</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>WHY_35fdf0c3b957fda5ea19d65fdebf6ef11844524f2b207588204ccbc9a2503ce8.jpeg</fileName>
+        <dateCreated>Fri, 23 May 2014 14:15:22 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>306</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_W>
+</imageIndex>

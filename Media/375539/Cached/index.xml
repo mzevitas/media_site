@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_m>
+    <image>
+      <originalFileName>man-desktop.jpg</originalFileName>
+      <size>61227</size>
+      <dateLastModified>Wed, 23 Apr 2014 15:46:36 GMT</dateLastModified>
+      <width>1320</width>
+      <height>479</height>
+      <cachedImage>
+        <fileName>MAN_944bddb34dd70f04b62cae44c8601db9900454e2104a04f125286200269eea01.jpeg</fileName>
+        <dateCreated>Wed, 23 Apr 2014 15:48:16 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>306</width>
+        <height>111</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_m>
+</imageIndex>

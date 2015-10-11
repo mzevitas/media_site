@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<!--[if IE 8]>               <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Cox Media</title>
+  
+  <link rel="stylesheet" href="styles/foundation.css">
+  <script data-main="scripts/main" src="scripts/libs/require.js"></script>
+
+</head>
+<body id="page" class="off-canvas hide-extras home">
+  <div class="container">
+    <div class="hide-for-small blue-top">
+      <div class="row">
+        <div class="large-5 large-offset-7 header-form">
+            <form class="custom">
+              <div class="small-7 columns">
+                  <label for="customDropdown1">Change Your Market</label>
+              </div>
+              <div class="small-5 columns">
+                  <select class="selectnav" id="selectnav1">
+                    <option>Macon, Ga</option>
+                    <option>Shreveport, LA</option>
+                    <option>Greenville, SC</option>
+                    <option>Charleston, SC</option>
+                  </select>
+              </div>
+            </form>
+          </div>
+      </div>
+    </div>
+    <header id="header">
+        <div class="row">
+            <div class="small-12">
+              <nav class="top-bar" style="">
+                  <ul class="title-area">
+                      <li class="name hide-for-small"><a href="/" class="logo"><img src="images/cox-logo.png"></a></li>
+                      <li class="toggle-topbar menu-icon"><a href=""><span></span></a></li>
+                      <li class="name show-for-small"><a href="/" class="logo"><img src="images/cox-logo.png"></a></li>
+                  </ul>
+                  <section class="top-bar-section">
+                      <ul>
+                          <li class="has-dropdown"><a href="#">Advertise With Us</a>
+                              <ul class="dropdown">
+                                  <li class="has-dropdown"><a href="#">Local Businesses</a>
+                                      <ul class="dropdown">
+                                          <li><a href="#">Why Cox Media?</a></li>
+                                          <li><a href="#">Services for Businesses</a></li>
+                                      </ul>
+                                  </li>
+                                  <li class="has-dropdown"><a href="#">For Agencies</a>
+                                      <ul class="dropdown">
+                                          <li><a href="#">Why Cox Media?</a></li>
+                                          <li><a href="#">Services for Agencies</a></li>
+                                      </ul>
+                                  </li>
+                                  <li class=""><a href="#">Multi-Market Advertising</a></li>
+                                  <li class=""><a href="#">Success Stories</a></li>
+                                  <li class=""><a href="#">Creative Gallery</a></li>
+                              </ul>
+                          </li>      
+                        <li class="has-dropdown"><a href="#">Products &amp; Services</a>
+                            <ul class="dropdown">
+                                <li><a href="#">On-air</a></li>
+                                <li><a href="#">Online</a></li>
+                                <li><a href="#">On-the-Go</a></li>
+                                <li><a href="#">Research Marketing</a></li>
+                                <li><a href="#">Full Service Production</a></li>
+                            </ul>
+                        </li>                    
+                        <li class="has-dropdown"><a href="#">Markets</a>
+                            <ul class="dropdown">
+                              <li><a href="#">Phoenix, AZ</a></li>
+                              <li><a href="#">Tuscon, AZ</a></li>
+                              <li><a href="#">San Diego, CA</a></li>
+                              <li><a href="#">Santa Barbara, CA</a></li>
+                              <li><a href="#">Hartford, CT</a></li>
+                              <li><a href="#">Gainsville-Ocala, FL</a></li>
+                              <li><a href="#">Mobile-Pensacola-Ft. Walton, FL</a></li>
+                              <li><a href="#">Macon, GA</a></li>
+                              <li><a href="#">Topeka, KS</a></li>
+                              <li><a href="#">Baton Rouge, LA</a></li>
+                              <li><a href="#">Lafayette, LA</a></li>
+                              <li><a href="#">New Orleans, LA</a></li>
+                              <li><a href="#">Omaha, NV</a></li>
+                              <li><a href="#">Las Vegas, NV</a></li>
+                              <li><a href="#">Oklahoma City, OK</a></li>
+                              <li><a href="#">Tulsa, OK</a></li>
+                              <li><a href="#">Providence, RI</a></li>
+                              <li><a href="#">Hampton Road (Norfolk DMA), VA</a></li>
+                              <li><a href="#">Multi-Market Advertising</a></li>
+                              <li><a href="#">Market Detail</a></li>  
+                            </ul>
+                        </li>
+                        <li class="has-dropdown"><a href="#">Toolkit</a>
+                            <ul class="dropdown">
+                                <li><a href="#">Glossary</a></li>              
+                                <li><a href="#">Articles &amp; White Papers</a></li>
+                                <li><a href="#">Document Library</a></li>
+                                <li><a href="#">Media Kit</a></li>
+                                <li><a href="#">SpotXPress</a></li>
+                            </ul>
+                        </li>
+                        <li class="not-click"><a href="#">Contact Us</a></li>
+                    </ul>
+                </section>
+              </nav>
+              <form class="custom show-for-small">
+                  <label for="customDropdown1">Change Your Market</label>
+                  <select class="selectnav" id="selectnav1">
+                      <option>Macon, Ga</option>
+                      <option>Shreveport, LA</option>
+                      <option>Greenville, SC</option>
+                      <option>Charleston, SC</option>
+                  </select>
+              </form>
+          </div>
+      </div>
+    </header>
+    <span class="header-shadow"></span>
+    <div class="main-row">
+        <section role="main">
+          <div class="row">
+              <div class="small-12 large-9 columns">
+                  <div class="flexslider">
+                      <ul class="slides">
+                          <li>
+                              <img src="images/home-slider-1.jpg" alt="slider-1">
+                              <div class="slide-content">
+                                <h3 class="blue">Advertising Solutions,</h3>
+                                <h1 class="black">Demystified</h1>
+                                <p>The media landscape is complex and ever-changing. Cox Media eliminates the confusion so you can focus on growing your business.</p>
+                              </div>
+                            </li>
+                            <li><img src="images/home-slider-2.jpg" alt="slider-2">
+                              <div class="slide-content">
+                                <h3 class="blue">The Right Customers,</h3>
+                                <h1 class="black">Right Here</h1>
+                                <p>Cox Media delivers your message to the right customers at the right time, right in your neighborhood.</p>
+                              </div>
+                            </li>
+                            <li><img src="images/home-slider-3.jpg" alt="slider-3">
+                              <div class="slide-content">
+                                <h3 class="blue">On Point,</h3>
+                                <h1 class="black">Easy Results</h1>
+                                <p>Speak to customers on multiple screens with a marketing solution that’s easy, effective and produces real results.</p>
+                              </div>
+                            </li>
+                            <li><img src="images/home-slider-4.jpg" alt="slider-4">
+                              <div class="slide-content">
+                                <h3 class="blue">Stay Relevant &amp;</h3>
+                                <h1 class="black">Intelligent</h1>
+                                <p>Local market intelligence helps you make the most of your advertising dollars, empowering you to make strategic media buys.</p>
+                              </div>
+                            </li>
+                        </ul>
+                    </div>
+                 </div>
+                 <div class="small-12 large-3 columns market-solution">
+                    <div class="small-12 large-12">
+                      <h1><span class="pink">Success</span><br>Stories</h1>
+                      <p>Delivering personalized marketing solutions. Just ask our clients.</p>
+                      <a href="#"><img class="black-bg" src="images/cta.png" alt="cta"></a>
+                    </div>
+                    <img class="dots" src="images/dots.png" alt="dots">
+                    <div class="small-12 large-12">
+                      <h1><span class="light-blue">Discover Your</span><br>Marketplace</h1>
+                      <p>Learn more about <br>advertising in <a href="#!" class="pink">city</a>.</p>
+                      <a href="#"><img class="black-bg" src="images/cta.png" alt="cta"></a>
+                  </div>
+                </div>
+            </div>
+            <div class="row">
+              <div class="small-12 columns padding-t30">
+                <h1>Welcome to Cox Media</h1>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam augue velit, vulputate a convallis id, condimentum non ante. Aenean condimentum orci eu enim sollicitudin, velvenenatis sem pretium. Etiam augue velit, vulputate a convallis id, condimentum non ante. Aenean condimentum orci eu enim sollicitudin, velvenenatis sem pretium</p>
+              </div>
+            </div>
+            <div class="small-12">
+                <div class="row padding-t30 home-three-col">
+                  <div class="small-12 large-4 columns">
+                    <img class="mobile-full" src="images/dk-media-solutions.jpg">
+                    <h3 class="dark-blue">Advertise With Us</h3>
+                    <p>See how Cox Media can create targeted advertising solutions for you that meet your business needs.</p>
+                    <a href="#" class="cta">Learn More</a>
+                  </div>
+                  <div class="small-12 large-4 columns">
+                    <img class="mobile-full" src="images/dk-media-solutions-2.jpg">
+                    <h3 class="dark-blue">Our Products &amp; Services</h3>
+                    <p>See how Cox Media can create targeted advertising solutions for you that meet your agency needs.</p>
+                    <a href="#" class="cta">Learn More</a>
+                  </div>
+                <div class="small-12 large-4 columns">
+                    <img class="mobile-full" src="images/dk-media-solutions-3.jpg">
+                    <h3 class="dark-blue">Our Markets</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam augue velit, vulputate a convallis id, condimentum non ante. Aenean condimentum orci eu enim sollicitudin, vel venenatis sem pretium.</p>
+                    <a href="#" class="cta">Learn More</a>
+                </div>
+                <div class="small-12 large-4 columns">
+                    <img class="mobile-full" src="images/digital-1.jpg">
+                    <h3 class="dark-blue">Information</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam augue velit, vulputate a convallis id, condimentum non ante. Aenean condimentum orci eu enim sollicitudin,vel venenatis sem pretium.</p>
+                    <a href="#" class="cta">Learn More</a>
+                </div>
+                <div class="small-12 large-4 columns">
+                    <img class="mobile-full" src="images/digital-2.jpg">
+                    <h3 class="dark-blue">About Us</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam augue velit, vulputate a convallis id, condimentum non ante. Aenean condimentum orci eu enim sollicitudin, velvenenatis sem pretium.</p>
+                    <a href="#" class="cta">Learn More</a>
+                </div>
+                <div class="small-12 large-4 columns">
+                    <img class="mobile-full" src="images/digital-3.jpg">
+                    <h3 class="dark-blue">Contact Us</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam augue velit, vulputate a convallis id, condimentum non ante. Aenean condimentum orci eu enim sollicitudin, velvenenatis sem pretium.</p>
+                    <a href="#" class="cta">Learn More</a>
+                </div>
+              </div>
+            </div>
+        </section>
+          <!-- ////////////////////// NAV SIDEBAR /////////////////// -->
+      </div>
+      <div class="footer-shadow"></div>
+      <footer class="site-footer" role="contentinfo">
+          <div class="row">
+            <div class="small-12 no-padding">
+              <p><a href="#">About Cox Media</a>•<a href="#">Cox Enterprises</a>•<a href="#">Cox</a><br><a href="#">Diversity</a>•<a href="#">Careers</a>•<a href="#">Glossary</a>•<a href="#">SpotXpress</a>•<a href="#">Media Kit</a><br><a href="#">Privacy</a>•<a href="#">Visitor Agreement</a>•<a href="#">Mobile Sweepstakes Rules</a></p>
+            </div>
+          </div>
+      </footer>
+  </div>
+</body>
+</html>

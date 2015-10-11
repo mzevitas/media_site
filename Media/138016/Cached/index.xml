@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_S>
+    <image>
+      <originalFileName>STEVE_Village_Properties_Logo_55x1_cmyk.JPG</originalFileName>
+      <size>32980</size>
+      <dateLastModified>Thu, 20 Feb 2014 14:45:20 GMT</dateLastModified>
+      <width>248</width>
+      <height>181</height>
+      <cachedImage>
+        <fileName>STE_5ce9a68e5714eb9bc9c9c50f6b9243325a0136bebdf2f42b1787819f2c873693.jpeg</fileName>
+        <dateCreated>Tue, 22 Apr 2014 16:06:39 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>684</width>
+        <height>499</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_S>
+</imageIndex>

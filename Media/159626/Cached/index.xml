@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_S>
+    <image>
+      <originalFileName>Slide-1-3.jpg</originalFileName>
+      <size>895302</size>
+      <dateLastModified>Mon, 24 Feb 2014 19:58:37 GMT</dateLastModified>
+      <width>2185</width>
+      <height>1167</height>
+      <cachedImage>
+        <fileName>SLI_442b34856c8d34b675bf831686f0e69fe69545f9d908d018cff1ce2e300a257f.jpeg</fileName>
+        <dateCreated>Mon, 24 Feb 2014 19:59:46 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>935</width>
+        <height>499</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_S>
+</imageIndex>

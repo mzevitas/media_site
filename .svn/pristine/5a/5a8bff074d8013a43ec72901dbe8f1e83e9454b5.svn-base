@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<!--[if IE 8]>               <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Cox Media</title>
+
+  <link rel="stylesheet" href="styles/foundation.css">
+  <script data-main="scripts/main" src="scripts/libs/require.js"></script>
+
+</head>
+<body id="page" class="hide-extras entry">
+  <div class="container">
+    <div class="row">
+      <div class="small-12">
+      
+      </div>
+    </div>
+    <div class="main-row">
+        <section role="main">
+            <div class="row">
+                <div class="small-12 large-7 large-centered columns text-center margin-t40">
+                    <div class="small-12 large-9">
+                      <img src="/images/home-cox-logo.png" alt="Cox Media">
+                    </div>
+                    <div class="row">
+                        <div class="small-12 large-9 columns margin-t40">
+                            <img src="/images/entry-monitors.png" alt="Locations">
+                            <h2 class="blue">Please select your market before continuing to the website</h2>
+                            <div class="small-12 large-10 large-centered small-centered columns">
+                                <form class="custom margin-t40 text-left margin-auto">
+                                    <select class="selectnav large" id="selectnav1">
+                                        <option>Select Industry</option>
+                                        <option>Shreveport, LA</option>
+                                        <option>Greenville, SC</option>
+                                        <option>Charleston, SC</option>
+                                    </select>
+                                </form>
+                            </div>
+                            <div class="text-center clear pink-cta">
+                                <a href="#" class="cta white margin-center margin-t40"><em>View All</em><img class="pink-b" src="images/cta.png"></a>
+                            </div>
+                            <p>Want to advertise in multiple markets? <br><a class="entry-cta" href="#">Click Here</a></p>
+                        </div>
+                        <div class="large-3 columns margin-t40 hide-for-small">
+                           <img src="images/home-blue-circle.png" alt="blue circle">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+      </div>
+      <footer class="site-footer" role="contentinfo">
+          <div class="row">
+            <div class="small-12 no-padding">
+              <p><a href="#">About Cox Media</a>•<a href="#">Diversity</a>•<a href="#">Glossary</a>•<a href="#">Privacy</a>•<a href="#">Media</a></p>
+            </div>
+          </div>
+      </footer>
+  </div>
+</body>
+</html>

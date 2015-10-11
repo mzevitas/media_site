@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_h>
+    <image>
+      <originalFileName>hydrangeas.jpg</originalFileName>
+      <size>612769</size>
+      <dateLastModified>Mon, 17 Mar 2014 19:17:11 GMT</dateLastModified>
+      <width>768</width>
+      <height>1024</height>
+      <cachedImage>
+        <fileName>HYD_b3838c11e93023f908d045be3edc78194419d31b1b13e254ae9e97b69fcd3b02.jpeg</fileName>
+        <dateCreated>Mon, 17 Mar 2014 19:18:11 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>105</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_h>
+</imageIndex>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_C>
+    <image>
+      <originalFileName>Coxcom-FPO.jpg</originalFileName>
+      <size>115940</size>
+      <dateLastModified>Fri, 04 Apr 2014 19:04:05 GMT</dateLastModified>
+      <width>507</width>
+      <height>338</height>
+      <cachedImage>
+        <fileName>COX_b741e4a2265d991d61df610ce4120a8aa6d15b34b79066e2c9081b73002236f0.jpeg</fileName>
+        <dateCreated>Fri, 04 Apr 2014 19:06:11 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>148</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_C>
+</imageIndex>

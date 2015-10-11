@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_S>
+    <image>
+      <originalFileName>Success_callout_3.png</originalFileName>
+      <size>126</size>
+      <dateLastModified>Thu, 10 Apr 2014 16:13:56 GMT</dateLastModified>
+      <width>251</width>
+      <height>2</height>
+      <cachedImage>
+        <fileName>SUC_f1ed908c94d918546527636890c1926798633ae0714eaa2aa731819657921023.png</fileName>
+        <dateCreated>Thu, 10 Apr 2014 16:14:23 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>216</width>
+        <height>2</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_S>
+</imageIndex>

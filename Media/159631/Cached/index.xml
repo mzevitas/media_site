@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_M>
+    <image>
+      <originalFileName>MR-9_Magic_Springs.jpg</originalFileName>
+      <size>106407</size>
+      <dateLastModified>Thu, 27 Feb 2014 20:12:25 GMT</dateLastModified>
+      <width>160</width>
+      <height>600</height>
+      <cachedImage>
+        <fileName>MR-_8f0dba502cc25c8fdd2c30f1425fd102ef21c79d7ebd52b73785761b29d75731.jpeg</fileName>
+        <dateCreated>Thu, 27 Feb 2014 20:13:29 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>37</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_M>
+</imageIndex>

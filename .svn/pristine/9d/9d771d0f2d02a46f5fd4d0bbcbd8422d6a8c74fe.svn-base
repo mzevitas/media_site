@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_x>
+    <image>
+      <originalFileName>xd.jpg</originalFileName>
+      <size>5099</size>
+      <dateLastModified>Fri, 13 Dec 2013 21:35:43 GMT</dateLastModified>
+      <width>145</width>
+      <height>110</height>
+      <cachedImage>
+        <fileName>XD_56a292cbe0e33114b42ba70e41cd71828ba08a8bbf1fee24bdb0f07f5184d2c1.jpeg</fileName>
+        <dateCreated>Fri, 13 Dec 2013 21:37:43 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>185</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_x>
+</imageIndex>

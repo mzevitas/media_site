@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_d>
+    <image>
+      <originalFileName>dk-media-solutions-2.jpg</originalFileName>
+      <size>8778</size>
+      <dateLastModified>Mon, 25 Nov 2013 22:21:59 GMT</dateLastModified>
+      <width>306</width>
+      <height>204</height>
+      <cachedImage>
+        <fileName>DK-_c54f9c3a432b033807aec0eba8997d499637c825e4446b2ef29543fd991a0658.jpeg</fileName>
+        <dateCreated>Thu, 23 Jan 2014 15:16:11 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>148</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_d>
+</imageIndex>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_v>
+    <image>
+      <originalFileName>video2.JPG</originalFileName>
+      <size>16697</size>
+      <dateLastModified>Thu, 23 Jan 2014 21:44:07 GMT</dateLastModified>
+      <width>281</width>
+      <height>130</height>
+      <cachedImage>
+        <fileName>VID_b27c83fe24b78ac2f342102177b2ee6a7cb361c8ae235ccc9475bcc2e9fed014.jpeg</fileName>
+        <dateCreated>Thu, 23 Jan 2014 21:46:36 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>303</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_v>
+</imageIndex>

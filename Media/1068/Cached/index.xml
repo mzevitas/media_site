@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_f>
+    <image>
+      <originalFileName>fox.jpg</originalFileName>
+      <size>6915</size>
+      <dateLastModified>Fri, 13 Dec 2013 21:36:11 GMT</dateLastModified>
+      <width>145</width>
+      <height>110</height>
+      <cachedImage>
+        <fileName>FOX_0c5361adbda80166fa623e7f13821c617d64711d87373c3e1ce3b6b1c1c167e4.jpeg</fileName>
+        <dateCreated>Fri, 13 Dec 2013 21:37:43 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>185</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_f>
+</imageIndex>

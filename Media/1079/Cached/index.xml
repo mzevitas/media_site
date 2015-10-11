@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_d>
+    <image>
+      <originalFileName>digital-2.jpg</originalFileName>
+      <size>14031</size>
+      <dateLastModified>Tue, 17 Dec 2013 21:48:37 GMT</dateLastModified>
+      <width>306</width>
+      <height>140</height>
+      <cachedImage>
+        <fileName>DIG_dad7fd4aadd982b66b99d68fd156d30031a39704bbf6789dca539da0ee965de8.jpeg</fileName>
+        <dateCreated>Tue, 17 Dec 2013 21:52:41 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>407</width>
+        <height>186</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_d>
+</imageIndex>

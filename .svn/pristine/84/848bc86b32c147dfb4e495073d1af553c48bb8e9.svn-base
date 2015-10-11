@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_o>
+    <image>
+      <originalFileName>overview-center.jpg</originalFileName>
+      <size>21177</size>
+      <dateLastModified>Thu, 02 Jan 2014 20:52:10 GMT</dateLastModified>
+      <width>307</width>
+      <height>140</height>
+      <cachedImage>
+        <fileName>OVE_68fe313ad7fd9ad5804486b5a446dac383d8f20d15dfe779796fba96a32008d3.jpeg</fileName>
+        <dateCreated>Tue, 10 Jun 2014 14:52:03 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>217</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_o>
+</imageIndex>

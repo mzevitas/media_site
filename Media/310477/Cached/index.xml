@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_M>
+    <image>
+      <originalFileName>Multichannel_009_2.png</originalFileName>
+      <size>53412</size>
+      <dateLastModified>Mon, 07 Apr 2014 19:12:07 GMT</dateLastModified>
+      <width>306</width>
+      <height>140</height>
+      <cachedImage>
+        <fileName>MUL_085b70c34361492e9f4f2a3be176972946c3fab0e39f479cef7dba44d3cf6e55.png</fileName>
+        <dateCreated>Mon, 07 Apr 2014 19:12:44 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>216</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_M>
+</imageIndex>

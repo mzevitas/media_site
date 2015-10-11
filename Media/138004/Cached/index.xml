@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_g>
+    <image>
+      <originalFileName>graphs.JPG</originalFileName>
+      <size>17758</size>
+      <dateLastModified>Thu, 23 Jan 2014 21:11:04 GMT</dateLastModified>
+      <width>282</width>
+      <height>130</height>
+      <cachedImage>
+        <fileName>GRA_b5b52cc8ae73445e45d25ff0d94bf469d0bff80fd8359d4367feb1a91584d268.jpeg</fileName>
+        <dateCreated>Thu, 23 Jan 2014 21:35:37 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>304</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>GRA_9220df637708c58c88ac0233d08bf0f1387c055cc06e072d28b701d048bb90e2.jpeg</fileName>
+        <dateCreated>Thu, 23 Jan 2014 22:11:36 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>217</width>
+        <height>100</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>GRA_175e6b108591e1c21e70ed343707d8e52b01bb640d8c040f0875f557ed3b9081.jpeg</fileName>
+        <dateCreated>Mon, 27 Jan 2014 18:06:02 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>215</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>GRA_3a7d91f0b5e22a3632184d401d48784f0c795a5eca7d1dfc77ca6cd1ef3168ce.jpeg</fileName>
+        <dateCreated>Fri, 21 Mar 2014 15:10:46 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>305</width>
+        <height>141</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_g>
+</imageIndex>

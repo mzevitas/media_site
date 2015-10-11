@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_n>
+    <image>
+      <originalFileName>network-landing-hero.jpg</originalFileName>
+      <size>67254</size>
+      <dateLastModified>Thu, 02 Jan 2014 21:25:53 GMT</dateLastModified>
+      <width>1254</width>
+      <height>479</height>
+      <cachedImage>
+        <fileName>NET_9618096561cf2a633a5a1e379ee4dd660cec997dacb8223fac09305354263a2f.jpeg</fileName>
+        <dateCreated>Mon, 07 Apr 2014 20:18:46 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>935</width>
+        <height>357</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_n>
+</imageIndex>

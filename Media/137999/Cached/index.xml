@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_p>
+    <image>
+      <originalFileName>phonegraphic.png</originalFileName>
+      <size>248</size>
+      <dateLastModified>Wed, 22 Jan 2014 20:54:27 GMT</dateLastModified>
+      <width>27</width>
+      <height>48</height>
+      <cachedImage>
+        <fileName>PHO_6ff9eedcc4a8301d47bfa20dad81635ea4704de0e0dd3fc231477e97f4738b53.png</fileName>
+        <dateCreated>Mon, 27 Jan 2014 21:08:09 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>56</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_p>
+</imageIndex>

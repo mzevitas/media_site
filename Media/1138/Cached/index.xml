@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_o>
+    <image>
+      <originalFileName>overview-left.jpg</originalFileName>
+      <size>14282</size>
+      <dateLastModified>Thu, 02 Jan 2014 20:51:57 GMT</dateLastModified>
+      <width>306</width>
+      <height>140</height>
+      <cachedImage>
+        <fileName>OVE_00b51e6311683fea53e8d9ce6712ec030f7b3ae459de44b6884b8eae7b07db2d.jpeg</fileName>
+        <dateCreated>Tue, 10 Jun 2014 14:52:03 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>216</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_o>
+</imageIndex>

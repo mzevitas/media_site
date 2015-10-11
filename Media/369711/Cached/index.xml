@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_M>
+    <image>
+      <originalFileName>Markets_hmpg.jpg</originalFileName>
+      <size>32405</size>
+      <dateLastModified>Mon, 14 Apr 2014 14:05:44 GMT</dateLastModified>
+      <width>306</width>
+      <height>204</height>
+      <cachedImage>
+        <fileName>MAR_39bc730588bfb321fe8e93420fccb02fd176ebe972b0f6417d5caea57d72de1d.jpeg</fileName>
+        <dateCreated>Mon, 14 Apr 2014 14:07:21 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>407</width>
+        <height>271</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_M>
+</imageIndex>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_m>
+    <image>
+      <originalFileName>man-home.jpg</originalFileName>
+      <size>9664</size>
+      <dateLastModified>Wed, 23 Apr 2014 15:46:36 GMT</dateLastModified>
+      <width>320</width>
+      <height>160</height>
+      <cachedImage>
+        <fileName>MAN_64c29a2873f3fcd72d200fb94131cd67699d8c7764718a9565b769dde52d6247.jpeg</fileName>
+        <dateCreated>Wed, 23 Apr 2014 15:48:16 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>280</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_m>
+</imageIndex>

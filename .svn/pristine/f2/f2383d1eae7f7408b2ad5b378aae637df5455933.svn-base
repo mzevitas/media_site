@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_I>
+    <image>
+      <originalFileName>INTGMKTG_FINAL.jpg</originalFileName>
+      <size>82357</size>
+      <dateLastModified>Mon, 07 Apr 2014 19:53:36 GMT</dateLastModified>
+      <width>306</width>
+      <height>204</height>
+      <cachedImage>
+        <fileName>INT_972272b4c4ee144517723fa2bde1b5fe54a5d6dec06a176d04069a0c7cf99aa9.jpeg</fileName>
+        <dateCreated>Mon, 07 Apr 2014 19:54:12 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>148</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_I>
+</imageIndex>

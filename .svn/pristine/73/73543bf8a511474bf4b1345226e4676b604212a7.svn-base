@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_h>
+    <image>
+      <originalFileName>home-slider-1.jpg</originalFileName>
+      <size>46371</size>
+      <dateLastModified>Tue, 17 Dec 2013 21:39:39 GMT</dateLastModified>
+      <width>1049</width>
+      <height>560</height>
+      <cachedImage>
+        <fileName>HOM_2e9e1d38bce08f80b655f2a2392818902f78d3824b94d953fa3bd5f19aec58de.jpeg</fileName>
+        <dateCreated>Tue, 17 Dec 2013 21:52:40 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>935</width>
+        <height>499</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_h>
+</imageIndex>

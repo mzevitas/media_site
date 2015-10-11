@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_s>
+    <image>
+      <originalFileName>spec-sheet.png</originalFileName>
+      <size>1017</size>
+      <dateLastModified>Thu, 02 Jan 2014 20:55:54 GMT</dateLastModified>
+      <width>51</width>
+      <height>55</height>
+      <cachedImage>
+        <fileName>SPE_55f02e51fef4ea821f0eb1ba1705237932a2b96ad78d42b746fec137a0a0f148.png</fileName>
+        <dateCreated>Mon, 24 Mar 2014 17:42:15 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>39</width>
+        <height>42</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_s>
+</imageIndex>

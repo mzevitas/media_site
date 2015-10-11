@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_F>
+    <image>
+      <originalFileName>FYI-FPO.png</originalFileName>
+      <size>104735</size>
+      <dateLastModified>Thu, 27 Mar 2014 15:05:04 GMT</dateLastModified>
+      <width>411</width>
+      <height>188</height>
+      <cachedImage>
+        <fileName>FYI_f0c5fd32e9f24e38df3f0731d25fd3a1c189ca347bfa021cab463834f6fa8a44.png</fileName>
+        <dateCreated>Thu, 27 Mar 2014 15:06:49 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>407</width>
+        <height>186</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_F>
+</imageIndex>

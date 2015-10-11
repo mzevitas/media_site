@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_s>
+    <image>
+      <originalFileName>solution-toolkit.png</originalFileName>
+      <size>2694</size>
+      <dateLastModified>Wed, 11 Dec 2013 23:26:40 GMT</dateLastModified>
+      <width>251</width>
+      <height>49</height>
+      <cachedImage>
+        <fileName>SOL_3ed57ffc140af554c01ced270dc6c26a8ffd665a7dffa124adf495d014d137a9.png</fileName>
+        <dateCreated>Wed, 11 Dec 2013 23:26:47 GMT</dateCreated>
+        <imageFormat>png</imageFormat>
+        <width>216</width>
+        <height>42</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_s>
+</imageIndex>

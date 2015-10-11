@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_t>
+    <image>
+      <originalFileName>template-3-img-2.jpg</originalFileName>
+      <size>8503</size>
+      <dateLastModified>Mon, 25 Nov 2013 22:36:33 GMT</dateLastModified>
+      <width>306</width>
+      <height>204</height>
+      <cachedImage>
+        <fileName>TEM_fba9cb41c1b5b53429df8b8d6107d2845396ed79ea37f24973cd879ab9b9aeb4.jpeg</fileName>
+        <dateCreated>Mon, 25 Nov 2013 22:36:51 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>305</width>
+        <height>203</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>TEM_20f58f3669fe032920ffd5a16b89013d134144ec96fbb1920d7ea5d2d69ad7f3.jpeg</fileName>
+        <dateCreated>Tue, 10 Dec 2013 21:54:09 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>407</width>
+        <height>271</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>TEM_bd3f57abb64a5b62080abdb158affe4f0e71170726447d95b315b85174c4cc17.jpeg</fileName>
+        <dateCreated>Thu, 09 Jan 2014 22:19:42 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>148</width>
+        <height>99</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>TEM_554e9c055a895e425ffc927ce7b46744e1b279c74db42772edf60a31dd3c8d53.jpeg</fileName>
+        <dateCreated>Wed, 22 Jan 2014 19:06:25 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>210</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+      <cachedImage>
+        <fileName>TEM_cc63d31ed582b43e538772e1aeebc3bdae78e918aeda8e7a899d570283a40382.jpeg</fileName>
+        <dateCreated>Wed, 22 Jan 2014 20:57:06 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>150</width>
+        <height>100</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_t>
+</imageIndex>

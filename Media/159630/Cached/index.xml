@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<imageIndex>
+  <_M>
+    <image>
+      <originalFileName>MR-7_NativeLIghts.jpg</originalFileName>
+      <size>38093</size>
+      <dateLastModified>Thu, 27 Feb 2014 20:12:24 GMT</dateLastModified>
+      <width>300</width>
+      <height>250</height>
+      <cachedImage>
+        <fileName>MR-_8230223d3ace4028f234a1315128fe9cdda6b7e3f15040bbfc86c4f843b1ab0b.jpeg</fileName>
+        <dateCreated>Thu, 27 Feb 2014 20:13:29 GMT</dateCreated>
+        <imageFormat>jpeg</imageFormat>
+        <compression>90</compression>
+        <width>168</width>
+        <height>140</height>
+        <bgColor>#FFFFFF</bgColor>
+        <transparent>True</transparent>
+        <border>0</border>
+        <borderColor>#000000</borderColor>
+        <constrain>True</constrain>
+        <pad>False</pad>
+      </cachedImage>
+    </image>
+  </_M>
+</imageIndex>
