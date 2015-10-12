@@ -10,6 +10,10 @@ footer {
     margin: 0 !important;
 }
 
+#sliderMobile {
+    display: none;
+}
+
 #moveDown {
     display: none;
     position: fixed;
@@ -700,5 +704,52 @@ footer {
 
 
 
+
+@media screen and (max-width: 480px){
+
+#section6 {
+    height: 1000px;
+    margin: 0 auto;
+}
+.botSec {
+
+        display: block;
+        line-break: auto;
+        bottom: 180px;
+        clear: both;
+
+        
+      
+}
+    .botSec h3{
+        background-color: hsla(0,0%,12%,0.7);
+        width: 100%;
+        text-align: center;
+        height:120px;
+        font-size: 1.5em;
+        border-top: 1px solid black;
+    }
+.topSec {
+    margin: 13px;
+    margin-top: 0;
+    text-align: center;
+}
+
+    .topSec h2 {
+        font-size: 1.6em;
+    
+}
+  .topSec h3 {
+        padding-top: 10px;
+    
+}
+
+.topSec img {
+    margin-top: -5px;
+}
+    .quest {
+        margin: 0 auto;
+    }
+}
 
 

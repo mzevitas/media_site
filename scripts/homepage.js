@@ -1,4 +1,6 @@
 $(document).ready(function() {
+
+         
     $('#fullpage').fullpage({
         anchors:['headPage','firstPage', 'secondPage', 'thirdPage',  'fifthPage', 'sixthPage', 'seventhPage'],
          // menu: '#myMenu',
@@ -8,19 +10,14 @@ $(document).ready(function() {
          css3: true,
          scrollingSpeed: 800,
          scrollBar: false,
-         responsiveWidth: 900,
-         responsiveHeight: 600,
-         fitToSection: true,
+        scrollOverflow: false,
+         autoScrolling: true,
+         // fitToSection: true,
          resize: true,
+         touchSensitivity: 5,
 
 
-            fitToSectionDelay: 200,
-
-
-
-// normalScrollElements: '#section9',
-
-
+ 
 
 
 // afterResize: function() {
@@ -70,8 +67,9 @@ $(document).ready(function() {
           }
       }
     });
+  
 });
-
+        // });
 $(document).on('click', '#moveDown', function(){
   $.fn.fullpage.moveSectionDown();
 });
@@ -79,3 +77,8 @@ $(document).on('click', '#moveDown', function(){
 $(document).on('click', '#moveTo', function(){
   $.fn.fullpage.moveTo('headPage', 1);
 });
+
+
+    
+
+ 
